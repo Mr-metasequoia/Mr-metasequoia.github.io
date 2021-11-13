@@ -1754,7 +1754,7 @@ body::before {
   left: 0;
   width: 20rem;
   background-color: #fff;
-  background-image: url("https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-1.jpg");
+  background-image: url("/images/水杉叶子.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom 3rem center;
