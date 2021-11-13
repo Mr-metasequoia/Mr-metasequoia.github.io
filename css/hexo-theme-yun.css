@@ -57,7 +57,7 @@
     --blockquote-bg-color: rgba(255, 135, 24, 0.1);
 }
 
-:root {
+ :root {
     --hty-mode: 'light';
     --hty-bg-color: #f5f5f5;
     --hty-text-color: #333;
@@ -115,7 +115,7 @@ body {
     line-height: 2;
 }
 
-::selection {
+ ::selection {
     color: #fff;
     background: #8e71c1;
 }
@@ -232,7 +232,7 @@ body::before {
     background-repeat: no-repeat;
     animation-name: bgFadeIn;
     animation-duration: 2s;
-    opacity: 1;
+    opacity: 0.8;
 }
 
 @-moz-keyframes bgFadeIn {
@@ -240,7 +240,7 @@ body::before {
         opacity: 0;
     }
     to {
-        opacity: 1;
+        opacity: 0.8;
     }
 }
 
@@ -249,7 +249,7 @@ body::before {
         opacity: 0;
     }
     to {
-        opacity: 1;
+        opacity: 0.8;
     }
 }
 
@@ -258,7 +258,7 @@ body::before {
         opacity: 0;
     }
     to {
-        opacity: 1;
+        opacity: 0.8;
     }
 }
 
@@ -267,11 +267,11 @@ body::before {
         opacity: 0;
     }
     to {
-        opacity: 1;
+        opacity: 0.8;
     }
 }
 
-:root {
+ :root {
     --banner-line-color: #000;
     --banner-char-color: #000;
 }
@@ -282,20 +282,6 @@ body::before {
     flex-direction: column;
     align-items: center;
     height: 100vh;
-}
-
-.notice {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    font-family: 'Songti SC', 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
-    font-weight: bold;
-    padding: 1 rem;
-    margin: 1 rem auto;
-    border: 1 px solid #000;
-    max-width: calc(900 px - 2 rem);
-    background-color: rgba(255, 255, 255, 0.3);
 }
 
 .banner-char-container {
@@ -929,11 +915,11 @@ body::before {
 }
 
 .category-lists .category-list-item::before {
-    content: '📂';
+    content: 'ðŸ“‚';
 }
 
 .category-lists .category-list-child .category-list-item::before {
-    content: '📁';
+    content: 'ðŸ“';
 }
 
 .category-lists .category-list-link {
@@ -1267,30 +1253,30 @@ body::before {
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
 }
 
-::-webkit-scrollbar {
+ ::-webkit-scrollbar {
     width: 8px;
     height: 8px;
 }
 
-::-webkit-scrollbar-track {
+ ::-webkit-scrollbar-track {
     border-radius: 2px;
     background-color: rgba(255, 255, 255, 0.1);
 }
 
-::-webkit-scrollbar-thumb {
+ ::-webkit-scrollbar-thumb {
     border-radius: 2px;
     background-color: rgba(0, 120, 231, 0.5);
 }
 
-::-webkit-scrollbar-thumb:window-inactive {
+ ::-webkit-scrollbar-thumb:window-inactive {
     background-color: rgba(0, 120, 231, 0.3);
 }
 
-::-webkit-scrollbar-thumb:hover {
+ ::-webkit-scrollbar-thumb:hover {
     background-color: rgba(0, 120, 231, 0.7);
 }
 
-::-webkit-scrollbar-thumb:active {
+ ::-webkit-scrollbar-thumb:active {
     background-color: rgba(0, 120, 231, 0.9);
 }
 
@@ -1389,9 +1375,9 @@ body::before {
     transition-property: all;
     transition-duration: 0.3s;
     transition-delay: 0s;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(255, 255, 255, 0.5);
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
-    /* tag 容器 */
+    /* tag å®¹å™¨ */
 }
 
 .post-card:hover {
@@ -2358,6 +2344,27 @@ body::before {
     display: block;
 }
 
+.notice {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Songti SC', 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
+    font-weight: bold;
+    padding: 1rem;
+    margin: 1rem auto;
+    border: 1px solid #000;
+    max-width: calc(900px - 2rem);
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+@media screen and (max-width: 768px) {
+    .notice {
+        border-left-width: 0px;
+        border-right-width: 0px;
+    }
+}
+
 .hidden {
     display: none;
 }
@@ -2406,7 +2413,7 @@ body::before {
     }
      :root:not([data-user-color-scheme]) .post-card {
         color: #fff;
-        background-color: rgba(27, 31, 46, 0.9);
+        background-color: rgba(27, 31, 46, 0.5);
         box-shadow: 0 1px 8px rgba(27, 31, 46, 0.1);
     }
      :root:not([data-user-color-scheme]) .page-number-basic {
@@ -2481,7 +2488,7 @@ body::before {
 
 [data-user-color-scheme='dark'] .post-card {
     color: #fff;
-    background-color: rgba(27, 31, 46, 0.9);
+    background-color: rgba(27, 31, 46, 0.5);
     box-shadow: 0 1px 8px rgba(27, 31, 46, 0.1);
 }
 
