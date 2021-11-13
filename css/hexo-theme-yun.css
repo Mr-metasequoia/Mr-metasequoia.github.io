@@ -280,7 +280,7 @@ body::before {
   opacity: 0;
 }
 .char-left {
-  border-left: 1px solid var(--banner-line-color);
+  border-left: 0 solid var(--banner-line-color);
   border-right: 0px solid rgba(60,179,113,0.1);
   border-right-width: 0px;
   animation-duration: 0.4s;
@@ -290,7 +290,7 @@ body::before {
 }
 .char-right {
   border-left: 0px solid rgba(60,179,113,0.1);
-  border-right: 1px solid var(--banner-line-color);
+  border-right: 0 solid var(--banner-line-color);
   border-left-width: 0px;
   animation-duration: 0.4s;
   animation-delay: 0.4s;
@@ -2034,7 +2034,7 @@ body::before {
     color: var(--hty-text-color);
   }
   :root:not([data-user-color-scheme]) body::before {
-    background-image: url("https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/galaxy.jpg");
+    background-image: url("/images/绿色极光.jpg");
   }
   :root:not([data-user-color-scheme]) .char {
     background-color: rgba(0,0,0,0.5);
@@ -2101,7 +2101,7 @@ body::before {
   color: var(--hty-text-color);
 }
 [data-user-color-scheme='dark'] body::before {
-  background-image: url("https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/galaxy.jpg");
+  background-image: url("/images/绿色极光.jpg");
 }
 [data-user-color-scheme='dark'] .char {
   background-color: rgba(0,0,0,0.5);
