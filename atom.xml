@@ -6,7 +6,7 @@
   <link href="https://mr-metasequoia.github.io/atom.xml" rel="self"/>
   
   <link href="https://mr-metasequoia.github.io/"/>
-  <updated>2022-01-05T06:51:20.470Z</updated>
+  <updated>2022-01-17T12:51:23.596Z</updated>
   <id>https://mr-metasequoia.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://mr-metasequoia.github.io/posts/fe7/"/>
     <id>https://mr-metasequoia.github.io/posts/fe7/</id>
     <published>2022-01-05T05:48:43.000Z</published>
-    <updated>2022-01-05T06:51:20.470Z</updated>
+    <updated>2022-01-17T12:51:23.596Z</updated>
     
     <content type="html"><![CDATA[<style>.add{    color: gray;    font-size: 12px;    text-align: center;}</style><h2 id="姑且还算是蛮厉害的一次更新哦？"><a href="#姑且还算是蛮厉害的一次更新哦？" class="headerlink" title="姑且还算是蛮厉害的一次更新哦？"></a>姑且还算是蛮厉害的一次更新哦？</h2><p><strong>修复：</strong></p><blockquote><ul><li>修复了Valine评论系统<strong>超高概率</strong>加载不出的问题，现在让LeanCloud走白名单了。</li><li>由于anonyfiles经常502，所以把苹果刘海和假装摸鱼小助手移到了gitee上。</li></ul></blockquote><hr><p><strong>新增：</strong></p><div class="base"><blockquote><ol><li>设置了4个特殊公祭日，当天全站所有页面都将变为灰色。<blockquote><p>和伙伴们约好，在他们暴毙后，将他们的忌日也加入到博客的<strong>特殊公祭日</strong>中。</p></blockquote></li></ol></blockquote></div><blockquote><ol start="2"><li>新增<a href="https://mr-metasequoia.github.io/sponsor/">“金 主 之 家~☆”</a>，也就是榜单！收录对本站进行赞赏的nice guy.</li><li>博客现在可以被任意RSS阅读器订阅了。</li></ol></blockquote><hr><p><strong>修改：</strong></p><blockquote><ol><li>将文章链接修改为短链接，现在仅需至多<strong>4位数字和字母</strong>就可以标识博文。</li><li>其他为了美观起见进行的修改。</li></ol></blockquote><hr><img src="/images/mourn.jpg" alt="特殊公祭日" style="width:700px;" / loading="lazy"><p class="add">虚位以待</p>]]></content>
     
