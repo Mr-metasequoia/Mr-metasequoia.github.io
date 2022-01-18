@@ -93,7 +93,7 @@
   }
 }
 body {
-  font-family: Roboto, Arial, sans-serif;
+  font-family: 'PingFang SC', 'Microsoft YaHei', Roboto, Arial, sans-serif;
   font-weight: 400;
   margin: 0;
   padding: 0;
@@ -260,9 +260,9 @@ body::before {
   bottom: 0;
 }
 .char {
-  font-family: 'ZhuZi';
+  font-family: 'ZhuZi', 'Songti SC', 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
   font-size: var(--banner-char-size, 1rem);
-  font-weight: 900;
+  font-weight: 1000;
   background-color: rgba(255,255,255,0.5);
   line-height: 1;
   transition-property: all;
@@ -711,8 +711,8 @@ body::before {
   padding-left: 0.6rem;
 }
 .link-url .link-blog {
-  font-family: 'ZhuZi';
-  font-weight: 900;
+  font-family: 'ZhuZi', 'Songti SC', 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
+  font-weight: 1000;
   margin: 0.42rem 0;
 }
 .link-url .link-desc {
@@ -1301,7 +1301,7 @@ body::before {
   background: rgba(60,179,113,0.3);
 }
 .post-collapse .collection-title .archive-year {
-  font-family: Courier, Consolas, Monaco, monospace;
+  font-family: 'Source Code Pro', Consolas, Monaco, SFMono-Regular, 'Ubuntu Mono', Menlo, monospace;
   color: #3cb371;
   margin: 0 1.5rem;
 }
@@ -1365,7 +1365,7 @@ body::before {
   margin-right: 0.3rem;
 }
 .post-collapse .post-header .post-meta {
-  font-family: Courier, Consolas, Monaco, monospace;
+  font-family: 'Source Code Pro', Consolas, Monaco, SFMono-Regular, 'Ubuntu Mono', Menlo, monospace;
   font-size: 1rem;
   margin: 1rem 0 1rem 1.2rem;
   white-space: nowrap;
@@ -1383,8 +1383,8 @@ body::before {
   margin: 0;
   padding: 10px;
   font-size: 1.5rem;
-  font-weight: 900;
-  font-family: 'ZhuZi';
+  font-weight: 1000;
+  font-family: 'ZhuZi', 'Songti SC', 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
 }
 .post-header .post-title .icon {
   width: 1.6rem;
@@ -1439,11 +1439,11 @@ body::before {
 .markdown-body {
   color: var(--hty-text-color);
   font-weight: 400;
-  font-family: Roboto, Arial, sans-serif;
+  font-family: 'PingFang SC', 'Microsoft YaHei', Roboto, Arial, sans-serif;
 }
 .markdown-body code,
 .markdown-body pre {
-  font-family: Courier, Consolas, Monaco, monospace;
+  font-family: 'Source Code Pro', Consolas, Monaco, SFMono-Regular, 'Ubuntu Mono', Menlo, monospace;
 }
 .markdown-body blockquote {
   padding: 0.6rem 1rem;
@@ -1676,7 +1676,7 @@ body::before {
   line-height: 1.8;
   padding: 1rem;
   font-size: 1.1rem;
-  font-family: 'ZhuZi';
+  font-family: 'ZhuZi', 'Songti SC', 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
 }
 .post-toc ol {
   list-style: none;
@@ -1691,7 +1691,7 @@ body::before {
   color: #db2828;
 }
 .post-toc ol .toc-number {
-  font-family: Courier, Consolas, Monaco, monospace;
+  font-family: 'Source Code Pro', Consolas, Monaco, SFMono-Regular, 'Ubuntu Mono', Menlo, monospace;
 }
 .post-toc ol .toc-child {
   font-size: 1rem;
@@ -1860,8 +1860,8 @@ body::before {
 }
 .site-name {
   color: var(--hty-text-color);
-  font-family: 'ZhuZi';
-  font-weight: 900;
+  font-family: 'ZhuZi', 'Songti SC', 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
+  font-weight: 1000;
 }
 .site-subtitle {
   color: #999;
@@ -1973,7 +1973,7 @@ body::before {
   color: var(--hty-text-color);
   display: block;
   text-align: center;
-  font-family: 'ZhuZi';
+  font-family: 'ZhuZi', 'Songti SC', 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
   font-weight: bold;
   padding: 0.5rem;
   border-top: 1px solid var(--hty-secondary-text-color);
@@ -1990,7 +1990,7 @@ body::before {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-family: 'ZhuZi';
+  font-family: 'ZhuZi', 'Songti SC', 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
   font-weight: bold;
   padding: 1rem;
   margin: 1rem auto;
@@ -2198,7 +2198,7 @@ body::before {
 }
 .girl-item .girl-from {
   font-size: 12px;
-  font-family: 'ZhuZi';
+  font-family: 'ZhuZi', 'Songti SC', 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
   font-weight: bold;
   color: var(--hty-secondary-text-color);
 }
