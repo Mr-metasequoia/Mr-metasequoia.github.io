@@ -17,7 +17,7 @@ function track(eventName, title, seed) {
     _hmt.push(['_trackEvent', eventName, 'title_seed', title + '_' + seed]);
 }
 
-window.$ = function (selector) {
+window.$ = function(selector) {
     return document.querySelector(selector);
 }
 
@@ -100,7 +100,8 @@ let 初始主题 = [
     '全球经济市场剧烈动荡',
     '中国人口老龄化加剧',
     '哥谭市水污染整治工作滞后',
-    '中国出现奥密克戎病例'
+    '中国出现奥密克戎病例',
+    '2022春节联欢晚会'
 ]
 
 let 下取整 = Math.floor;
@@ -203,7 +204,7 @@ function 生成文章() {
     let 文章长度 = 0;
     let 结尾 = 来点后语();
     while (文章长度 < 996) {
-        let 随机数 = 随便取一个数();  //随机数在0-50之间
+        let 随机数 = 随便取一个数(); //随机数在0-50之间
         if (随机数 < 35 && 段落.length > 100) {
             段落 = 增加段落(段落);
             文章.push(段落);
@@ -233,4 +234,3 @@ if (获取网址参数('x')) {
     生成文章();
     track('shared', x, 随机种子);
 }
-
