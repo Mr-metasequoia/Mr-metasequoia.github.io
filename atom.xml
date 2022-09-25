@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mr.水杉的休憩处</title>
+  
+  
+  <link href="https://mr-metasequoia.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://mr-metasequoia.github.io/"/>
+  <updated>2022-09-04T02:46:03.709Z</updated>
+  <id>https://mr-metasequoia.github.io/</id>
+  
+  <author>
+    <name>水杉</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>re:学期末工作总结报告s4e2</title>
+    <link href="https://mr-metasequoia.github.io/posts/5b80/"/>
+    <id>https://mr-metasequoia.github.io/posts/5b80/</id>
+    <published>2022-08-20T04:05:24.000Z</published>
+    <updated>2022-09-04T02:46:03.709Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>正如我不知道云游君、卜卜口、莉沫酱<span title="还有Yafeng、长风、李跳跳、Drakeet、DIYgods"><strong>……</strong></span>他们之间是怎样的区别、如何的厉害，我的一些朋友也不清楚我与他们的参差。  </p></blockquote><p>我终于毕业了。曾经豪情万丈的想法——“广阔天地，大有可为”，现在即参与工作和建设了，免不了的却还是有些<ruby><rb>憂鬱</rb><rt>忧郁</rt></ruby>。  </p><p>一直以来，我都觉得自己应当是最厉害的。倒不如说，如果我不是最厉害的，那么我会感到难过。一想到班上的许多同学，之所以能放任我成为平均学分绩点最高的那一人，恰恰是因为他们考虑到了更长远的考研和参与工作的事，我的心情就止不住地烦闷。<br>我之前说过，现在也仍旧这么想：我还是想要作为研究生，看见更多、学到更多。计算机和互联网的世界实在是太有趣了，可以让我仅凭知识和想象，便做出任何自己力所能及的、想要的东西，而且近乎没有成本地分享给任何人。我愿意在这样的世界生活，享受它、建设它。  </p><p>之前我因畏惧失败而逃避了备考，我不会再犯同样的错误。我确信自己想要学习，我也能预见自己将面临的许多挫折，但它们all means nothing，不能阻止我分毫想要继续的决心。<br><strong>一定要终于实现！一定要终于了解！一定要终于看见！</strong>  </p><p>没有结出成果，便不可能真的“一片无悔”。<br>从而无论怎样难看的姿态，都不构成放弃的理由。  </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;正如我不知道云游君、卜卜口、莉沫酱&lt;span title=&quot;还有Yafeng、长风、李跳跳、Drakeet、DIYgods&quot;&gt;&lt;strong&gt;……&lt;/strong&gt;&lt;/span&gt;他们之间是怎样的区别、如何的厉害，我的一些朋友也不清楚我与他们的参差。</summary>
+      
+    
+    
+    
+    
+    <category term="学期末工作总结报告" scheme="https://mr-metasequoia.github.io/tags/%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>更新日志v1.4</title>
+    <link href="https://mr-metasequoia.github.io/posts/d67/"/>
+    <id>https://mr-metasequoia.github.io/posts/d67/</id>
+    <published>2022-06-22T01:48:42.000Z</published>
+    <updated>2022-06-22T03:52:05.695Z</updated>
+    
+    <content type="html"><![CDATA[<style>.heimu, .heimu a, a .heimu, .heimu a.new {    background-color: #252525;    color: #252525;    text-shadow: none;}.heimu:hover, .heimu:active,.heimu:hover .heimu, .heimu:active .heimu {    color: white !important;}.heimu:hover a, a:hover .heimu,.heimu:active a, a:active .heimu {    color: lightblue !important;}.heimu:hover .new, .heimu .new:hover, .new:hover .heimu,.heimu:active .new, .heimu .new:active, .new:active .heimu {    color: #BA0000 !important;}</style><h2 id="新增了一些套皮demo"><a href="#新增了一些套皮demo" class="headerlink" title="新增了一些套皮demo"></a>新增了一些套皮demo</h2><p><strong>新增：</strong></p><blockquote><ol><li><a href="https://gitee.com/shuishanmetasequoia/english-improver"><strong>英语变好器</strong></a>，基于一种据称可以提高英语阅读速度并使人专注内容的<a href="https://bionic-reading.com/">Bionic Reading</a>。做这个东西毫无门槛，而且我竟然要求用户必须搭配Markdown阅读器才能正常使用，<span class="heimu">什么数字垃圾</span>。2次元的卜卜口老师仅用1小时就写出了极其易用、便利的<a href="https://greasyfork.org/zh-CN/scripts/445211-bionic-reading-b">油猴脚本</a>，而且非常匠心地之后又进行了优化。Bionic Reading官网本身也推出了<a href="https://api.bionic-reading.com/convert/">在线转换器</a>。  </li><li><a href="https://wwu.lanzoum.com/iQM1806rp3ah">套皮抠图工具</a>，密码：<span class="heimu">koutu</span>。非常难用，需要用户自备python环境和取色工具，最佳实践是扣白底上的黑字。如果对图片的清晰度不敏感，或者愿意使用Google||Facebook账户登录并支付一笔💴的，通常认为在线的<a href="https://www.remove.bg/"> <strong>remove</strong>bg </a>已经足够好用——当然最好用的还是<strong>PhotoShop</strong>。  </li><li><a href="https://wwu.lanzoum.com/itJvC06rqbfg"><strong>右键搜图chrome插件</strong></a>，密码：<span class="heimu">sotu</span>。这个还挺有用的——可以在需要搜图的时候，节省您宝贵的1分钟。尤其是选中文字后右键搜图，这里使用了卜卜口老师的<a href="https://lab.magiconch.com/baidu-images/">百度图片搜索极简版</a>，国内访问速度喜人，界面也超漂亮。另外，以图搜图需要用户挂着代理，因为聚合的是Google、Bing、Yandex等外国引擎的搜图功能。还有就是对base64等一些地址格式的网络图片搜不了，您多担待。</li><li><a href="https://github.com/Mr-metasequoia/metasequoia-airport">水杉机场</a>，懂的都懂😉</li></ol></blockquote><hr><p><strong>修复：</strong></p><blockquote><ol><li>修复了<a href="https://mr-metasequoia.github.io/sponsor/">金主之家</a>的hexo-tag-common移动端访问显示错误的问题。</li><li>更新了文章<a href="https://mr-metasequoia.github.io/posts/c9b8/">更加优雅地追动漫</a>，提供了Du的蓝奏云下载链接。</li></ol></blockquote><hr><p><strong>其他：</strong></p><blockquote><ul><li>由于gitee提交代码现在需要审核了，所以站内有些链接可以会失效。如果确有需求可以联系我，毕竟有些搞笑项目想来是难以过审的。  </li><li>GitHub对国内一般通过用户来说就很不友好，真是愁人。</li></ul></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;style&gt;
+.heimu, .heimu a, a .heimu, .heimu a.new {
+    background-color: #252525;
+    color: #252525;
+    text-shadow: none;
+}
+.heimu:hover,</summary>
+      
+    
+    
+    
+    <category term="博客" scheme="https://mr-metasequoia.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="更新日志" scheme="https://mr-metasequoia.github.io/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第1届 水杉学园祭</title>
+    <link href="https://mr-metasequoia.github.io/posts/f1ec/"/>
+    <id>https://mr-metasequoia.github.io/posts/f1ec/</id>
+    <published>2022-04-27T04:50:54.000Z</published>
+    <updated>2022-04-30T14:21:45.195Z</updated>
+    
+    <content type="html"><![CDATA[<style>.heimu, .heimu a, a .heimu, .heimu a.new {    background-color: #252525;    color: #252525;    text-shadow: none;}.heimu:hover, .heimu:active,.heimu:hover .heimu, .heimu:active .heimu {    color: white !important;}.heimu:hover a, a:hover .heimu,.heimu:active a, a:active .heimu {    color: lightblue !important;}.heimu:hover .new, .heimu .new:hover, .new:hover .heimu,.heimu:active .new, .heimu .new:active, .new:active .heimu {    color: #BA0000 !important;}.add{    color: gray;    font-size: 12px;    text-align: center;}</style><p>我进大学前，列举了几件想要做的事情：</p><blockquote><p><del>首先当然是谈恋爱吧</del> &nbsp;&nbsp;失败了！<br><del>加入动漫社团，给集英社写信</del> &nbsp;&nbsp;失败了！<br><del>打1次排球，并且获得「春高バレー」优胜</del> &nbsp;&nbsp;失败了！<br><del>带领同学们发起罢课活动，逼迫校长举办学园文化祭</del> &nbsp;&nbsp;我不敢！<br><del>找出外星人，未来人，异世界人，以及超能力者，然后和他们一起玩！</del> &nbsp;&nbsp;失败了！  </p></blockquote><p>如您所见，基本上都失败了，非常的<ruby><rb>可惜</rb><rt>？</rt></ruby>。所以至少在最后，我想搞一场个人产品发布会，介绍一下我做的那些怪东西。我其实是超级喜欢搞笑的人，可惜你们都太严肃了！接下来请欣赏我的冷笑话吧！</p><h2 id="Coconut"><a href="#Coconut" class="headerlink" title="Coconut"></a>Coconut</h2><p>在2022年发生了这种那种的危机的情况下，为了拯救遭受资本和政治的粗暴干涉，<ruby><rb>濒临崩溃</rb><rt>我乱讲的</rt></ruby>的开源世界，16岁男子高中生决定……成为偶像！囿于身高和颜值等方面的原因，他的选择就只剩下了Vtuber！</p><p>嘛，基本上就是用OpenCV读摄像头和画图，用Dlib做人脸识别。因为psd格式的分层立绘我显然不会画嘛！就算去网上偷图也没有办法把五官和小装饰拆开来，所以就打算走极简风格！  </p><p><img src="/images/%E5%AD%A6%E5%9B%AD%E7%A5%AD/Coconut.jpg" alt="Coconut" loading="lazy"></p><p>因为长得很像🥥嘛！所以设定上是海南偶像，通称「Coconut」。<br>好看的皮套千篇一律，更重要的是……作为中之人的我的<strong>心</strong>啊！  </p><p><span class="heimu">争取在<a href="https://www.comiket.co.jp/">C110</a>之前成为超人气角色！（笑www</span></p><h2 id="假装摸鱼小助手"><a href="#假装摸鱼小助手" class="headerlink" title="假装摸鱼小助手"></a>假装摸鱼小助手</h2><p>大家是否有这样的烦恼，当你正在做一些见不得人的事情（比如说学习什么的！），然后舍友突然从你的脑后冒了出来：<em>“你这家伙在做什么鸭~”</em>——很害羞不是吗！所以我就搞了这么个Chrome插件<a href="https://mr-metasequoia.github.io/tools/pretendtoplay/">“假装摸鱼小助手”</a>。每当有坏蛋来窥你屏的时候，你只要把鼠标往外一推：<em>“害！我正开摆呢！”</em></p><p><img src="/images/%E5%AD%A6%E5%9B%AD%E7%A5%AD/%E5%81%87%E8%A3%85%E6%91%B8%E9%B1%BC%E5%B0%8F%E5%8A%A9%E6%89%8B.png" alt="假装摸鱼小助手" loading="lazy">  </p><p>光标一旦离开活动窗口，就会显示BiliBili的首页。<br><em>“哦！原来是在逛b站。真没意思，我走啦！”</em></p><h2 id="时事锐评生成器"><a href="#时事锐评生成器" class="headerlink" title="时事锐评生成器"></a>时事锐评生成器</h2><p>既然没有办法加入动漫社团，那我自己建一个不就好了吗！——这样想着，我于是创建了<strong>萌2部</strong>。<br>但是！部内成员比起聊2次元，他们更喜欢搞<ruby><rb>键政，</rb><rt>键盘政治</rt></ruby>真是最恶劣事态！为了追赶部内潮流，我制作了1个<a href="https://mr-metasequoia.github.io/tools/RuiPingGenerate/"><strong>“时事锐评生成器”</strong></a>。这样，每当出现「如何评价XXX」「YYY释放了什么信号」之类的问题，我就可以快速做出锐评，可喜可贺！</p><p><img src="/images/%E5%AD%A6%E5%9B%AD%E7%A5%AD/%E6%97%B6%E4%BA%8B%E9%94%90%E8%AF%84%E7%94%9F%E6%88%90%E5%99%A8.png" alt="时事锐评生成器" loading="lazy">  </p><h2 id="超新星风暴"><a href="#超新星风暴" class="headerlink" title="超新星风暴"></a>超新星风暴</h2><p>不是偶尔会有那种<span class="heimu">弱智</span>广告吗，说什么XXX行代码画1个什么东西，然后女朋友看见都感动哭啦！我接下来要介绍的就是类似那种东西，一个<a href="https://gitee.com/shuishanmetasequoia/c-technical-validation/blob/master/%E8%B6%85%E6%96%B0%E6%98%9F%E9%A3%8E%E6%9A%B4.exe"><strong>简单的动画</strong></a>。<br>使用了EasyX图形库，用超朴实办法绘制每一个点。要说观赏之外还有什么价值的话，把粒子的数量设置为天文数字，CPU风扇就会转的超快！——也许可以拿来清灰？</p><p><img src="/images/%E5%AD%A6%E5%9B%AD%E7%A5%AD/%E8%B6%85%E6%96%B0%E6%98%9F%E9%A3%8E%E6%9A%B4.png" alt="超新星风暴" loading="lazy">  </p><p class="add">我开玩笑的！危险操作禁止🙅‍口牙！</p>  <h2 id="宝宝喝奶"><a href="#宝宝喝奶" class="headerlink" title="宝宝喝奶"></a>宝宝喝奶</h2><p>之前有看到叫做One HTML Page的挑战，仅靠一个单页能做到什么地步？<br>总之就是各种神乎其技。我在里面找到了像是我的弟弟会喜欢玩的东西，一番改造之后就成了现在的这个<a href="https://gitee.com/shuishanmetasequoia/funny-little-thing/blob/master/%E5%AE%9D%E5%AE%9D%E5%96%9D%E5%A5%B6.html">宝宝喝奶</a>。  </p><p><img src="/images/%E5%AD%A6%E5%9B%AD%E7%A5%AD/%E5%AE%9D%E5%AE%9D%E5%96%9D%E5%A5%B6.png" alt="宝宝喝奶" loading="lazy">  </p><p>5岁以上的大朋友不准玩哦！  </p><h2 id="影视解析器"><a href="#影视解析器" class="headerlink" title="影视解析器"></a>影视解析器</h2><p>“<em>到底有没有真正实用的东西啊！</em>”——我猜到你会这样问，所以<ruby><rb>我特别准备了<a href="https://mr-metasequoia.github.io/tools/watchingvideo/"><strong>影视解析器</strong></a></rb><rt>那没有就是没有嘛!</rt></ruby>。  </p><p>原理非常简单，就是把我觉得靠谱的盗版视频网站和解析接口整合到1起。面向的受众的话——中老年人？<span class="heimu" title="笑">懒狗？</span>  </p><p><img src="/images/%E5%AD%A6%E5%9B%AD%E7%A5%AD/%E5%BD%B1%E8%A7%86%E8%A7%A3%E6%9E%90%E5%99%A8.png" alt="影视解析器" loading="lazy">  </p><h2 id="户外路线坐标聚合工具"><a href="#户外路线坐标聚合工具" class="headerlink" title="户外路线坐标聚合工具"></a>户外路线坐标聚合工具</h2><p>这是我的完全新作！一个微信小程序，直接搜索<strong>户外路线坐标聚合工具</strong>（通称「工具」）就可以了。<br>有1些坏分子，把我的这个小程序误以为是类地图软件，然后不分青红皂白就批判1番，<strong>坏！</strong>  </p><p>简单来说，工具是特别用作：<em>将城市郊区山上的野路，标记并连接起来</em>的！更经开发的旅游区，普通的地图软件就可以做到导航；而更偏远的地方，则需要专业设备，压根儿不存在所谓“野路”。  </p><p><img src="/images/%E5%AD%A6%E5%9B%AD%E7%A5%AD/%E6%88%B7%E5%A4%96%E8%B7%AF%E7%BA%BF%E5%9D%90%E6%A0%87%E8%81%9A%E5%90%88%E5%B7%A5%E5%85%B7.jpg" alt="户外路线坐标聚合工具" loading="lazy">  </p><h2 id="水杉包"><a href="#水杉包" class="headerlink" title="水杉包"></a>水杉包</h2><p>🌈彩虹屁插件！可谓是<del>痴汉</del>程序员の生活必需品。<br>我打算做一个更好更全响应的<ruby><rb>语音包</rb><rt>水杉包</rt></ruby>，<a href="https://github.com/saekiraku/vscode-rainbow-fart">原版</a>这个仅支持JS相关的关键字，不够好！  </p><center><div style="width:80%;"><div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"video":{"url":"https://saekiraku.oss-cn-beijing.aliyuncs.com/github/vscode-rainbow-fart/showoff-1.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script></div></center>  <p>压倒性难题在于小姐姐的声音太可爱了，而我没有合适的语音来源。<strong>音の良好女子急募！</strong></p><h2 id="闭幕式"><a href="#闭幕式" class="headerlink" title="闭幕式"></a>闭幕式</h2><p>快乐的时光总是短暂，转眼又到了要说再见的时候。（定型文<br>那么第1届水杉学园祭到这里就结束了！让我们期待下次的见面吧！  </p><p>啊对了，还要感谢各位<a href="https://mr-metasequoia.github.io/sponsor/">赞赏者老板</a>，mua</p><p><strong>严正声明：</strong> <span style="font-size:12px;">文章不是现实生活中你们认识的那个谁写的，</span>学园祭的主持人是<a href="https://mr-metasequoia.github.io/about/">水杉</a>哦！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;style&gt;
+.heimu, .heimu a, a .heimu, .heimu a.new {
+    background-color: #252525;
+    color: #252525;
+    text-shadow: none;
+}
+.heimu:hover,</summary>
+      
+    
+    
+    
+    <category term="博客" scheme="https://mr-metasequoia.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="动漫" scheme="https://mr-metasequoia.github.io/tags/%E5%8A%A8%E6%BC%AB/"/>
+    
+    <category term="水杉学园祭" scheme="https://mr-metasequoia.github.io/tags/%E6%B0%B4%E6%9D%89%E5%AD%A6%E5%9B%AD%E7%A5%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>毕设论文的致谢</title>
+    <link href="https://mr-metasequoia.github.io/posts/aa49/"/>
+    <id>https://mr-metasequoia.github.io/posts/aa49/</id>
+    <published>2022-04-21T07:08:07.000Z</published>
+    <updated>2022-09-24T07:16:51.002Z</updated>
+    
+    <content type="html"><![CDATA[<style>.heimu, .heimu a, a .heimu, .heimu a.new {    background-color: #252525;    color: #252525;    text-shadow: none;}.heimu:hover, .heimu:active,.heimu:hover .heimu, .heimu:active .heimu {    color: white !important;}.heimu:hover a, a:hover .heimu,.heimu:active a, a:active .heimu {    color: lightblue !important;}.heimu:hover .new, .heimu .new:hover, .new:hover .heimu,.heimu:active .new, .heimu .new:active, .new:active .heimu {    color: #BA0000 !important;}</style><p><span class="heimu">哎呀，客套话总要讲的嘛……</span>  </p><p><span style="color:gray">我首先要感谢我的毕业设计和毕业设计论文的指导老师王君老师。王君老师在最初毕业设计选题的时候就与我做过交流，她给予我很大的自由度，让我能尽情发挥自己的创意。此外，王君老师还十分认真负责，对我毕业设计和毕业设计论文的进度及时跟进，严格把关——这些都对我具有很大帮助。<br></span></p><p>微信小程序本身并没有什么太大、无法克服的困难，但在单纯技术的背后，仍有许多需要的能力。我要感谢马青霞老师，她手把手带我做出了一个完整的论坛项目，让我第一次感到做出成品的成就感。感谢许震老师，在他的要求下，我第一次自己设计并实现了一个crud应用系统，开发期间还受到他很多次专门指导。感谢苏敏老师，他常常鼓励而且尊重我们学生，他为我指明了高效上网的方法论，让我得以接触国内外更多知识。  </p><p>以上是对我的小程序有间接帮助的老师，接下来我还要列举一些对我在校期间的学习有所帮助的老师。我要感谢任教数据结构的黄丽丽老师，她对待作业和考试严格，讲课水平很高。上她的课总是令我颇多收获，非常开心。感谢董军老师和刘晶老师，他们分别将Java和C中最基础也是最重要的部分教给了我，如果他们不是那么负责的老师，我也许就感受不到这之后的编程的趣味了。最后我还要感谢学校，开设了两门电影赏析和科学文明史的选修课，让我在学习之余也好好地放松，享受到了如同进入社团般的愉悦。  </p><p>同一寝室的舍友们与我相处融洽，经常给我东西吃，还会陪我打羽毛球和乒乓球。班上的同学们对我也很好，总是留出教室里距离老师最近的位置给我。还有许多老同学，陪我聊起共同的爱好，从来都不会感到疏远。  </p><p>论文里专门有一个致谢的部分能用来对你们表达感谢，真是太好了。  </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;style&gt;
+.heimu, .heimu a, a .heimu, .heimu a.new {
+    background-color: #252525;
+    color: #252525;
+    text-shadow: none;
+}
+.heimu:hover,</summary>
+      
+    
+    
+    
+    <category term="文章" scheme="https://mr-metasequoia.github.io/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>更新日志v1.3</title>
+    <link href="https://mr-metasequoia.github.io/posts/cf26/"/>
+    <id>https://mr-metasequoia.github.io/posts/cf26/</id>
+    <published>2022-03-02T08:48:30.000Z</published>
+    <updated>2022-03-02T11:39:20.975Z</updated>
+    
+    <content type="html"><![CDATA[<style>.heimu, .heimu a, a .heimu, .heimu a.new {    background-color: #252525;    color: #252525;    text-shadow: none;}.heimu:hover, .heimu:active,.heimu:hover .heimu, .heimu:active .heimu {    color: white !important;}.heimu:hover a, a:hover .heimu,.heimu:active a, a:active .heimu {    color: lightblue !important;}.heimu:hover .new, .heimu .new:hover, .new:hover .heimu,.heimu:active .new, .heimu .new:active, .new:active .heimu {    color: #BA0000 !important;}.info{    color: gray;    font-size: 12px;    text-align: center;}</style><h2 id="时隔许久的一次更新"><a href="#时隔许久的一次更新" class="headerlink" title="时隔许久的一次更新"></a>时隔许久的一次更新</h2><p><strong>新增：</strong></p><blockquote><ol><li><a href="https://mr-metasequoia.github.io/tools/RuiPingGenerate/"><strong>时事锐评生成器</strong></a>，基于<a href="https://suulnnka.github.io/BullshitGenerator/index.html">狗屁不通文章生成器</a>修改。比网上同类竞品更有理性、更像人话。现在不仅<ruby><rb>每句话</rb><rt>废话</rt></ruby>都只显示1遍，而且从语义上考虑到了因果关系。  </li><li><del>新增了全局音乐播放器，交互丝滑顿挫，非常好玩。</del>由于pjax没玩明白，如果开启会导致部分页面不完全加载、样式渲染错误，关闭则会导致在切换页面时音乐中断播放。因此舍弃了这个部件。  </li></ol><center><div style="width:80%;"><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"/videos/h264.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script></div></center><p class="info">效果演示</p></blockquote><hr><p><strong>修改：</strong></p><blockquote><ol><li>标题和首页正文等使用了衬线字体的地方，修改为<a href="https://www.foundertype.com/index.php/FontInfo/index/id/4982">方正筑紫明朝字体</a>。代价是在首次打开网站时，后台会自动下载3MB的字体包😝。</li><li>强化了<a href="https://mr-metasequoia.github.io/tools/watchingvideo/">剧名解析器</a>。现在不仅可以按照剧名或精确或模糊地<strong>搜索</strong>，还可以根据视频网址用多个接口进行<strong>解析</strong>。</li></ol></blockquote><hr><p><strong>其他：</strong></p><blockquote><ol><li>为了提高访问速度，压缩了网站里图片文件的大小。现在一张图片通常限制在150-200KB之间。</li></ol></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;style&gt;
+.heimu, .heimu a, a .heimu, .heimu a.new {
+    background-color: #252525;
+    color: #252525;
+    text-shadow: none;
+}
+.heimu:hover,</summary>
+      
+    
+    
+    
+    <category term="博客" scheme="https://mr-metasequoia.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="更新日志" scheme="https://mr-metasequoia.github.io/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>re:学期末工作总结报告s4e1</title>
+    <link href="https://mr-metasequoia.github.io/posts/5ac0/"/>
+    <id>https://mr-metasequoia.github.io/posts/5ac0/</id>
+    <published>2022-02-19T07:59:28.000Z</published>
+    <updated>2022-02-19T14:04:47.352Z</updated>
+    
+    <content type="html"><![CDATA[<style>.heimu, .heimu a, a .heimu, .heimu a.new {    background-color: #252525;    color: #252525;    text-shadow: none;}.heimu:hover, .heimu:active,.heimu:hover .heimu, .heimu:active .heimu {    color: white !important;}.heimu:hover a, a:hover .heimu,.heimu:active a, a:active .heimu {    color: lightblue !important;}.heimu:hover .new, .heimu .new:hover, .new:hover .heimu,.heimu:active .new, .heimu .new:active, .new:active .heimu {    color: #BA0000 !important;}.info{    color: gray;    font-size: 12px;    text-align: center;}</style><blockquote><p>坏了，这文章拖着拖着，眼看就要失去它的时效性了。<br>……嘛，赶在Deadline之前写完就算胜利✌  </p></blockquote><p>终于来到了大四，这一回是真的要结束了！<br>因为早先已经放出话说要考研，期间却没有好好做准备。以至对于这个不得不正面撞上考试的一学期，我怕到几乎不敢去学校。<br><a href="../764f">开学前写给自己的信</a>  </p><p>感到来不及了，算了、躺了。<br>越来越临近考研的12月份，我就是什么也不做。自欺欺人般把许多时间和精力，都放在做博客、搞专业课大作业和准备英语六级上——“呀嘞呀嘞，光是维持现状我就已经用尽全力了。”  </p><p>原本应该用于紧张复习的这段时间，我凭兴趣、逃避现实地做了一些乱七八糟的东西：</p><details>  <summary>乱七八糟的东西</summary><ol><li><a href="https://gitee.com/shuishanmetasequoia/python-shutdown">shutdown_new</a>小程序，用于定时关机、管理每次上机的小目标、倒计时和累积用时统计等。后来我发现了名叫<em>Manic Time</em>的软件，在记录和可视化方面比我做的这个好用太多了，大推荐。  </li><li>chrome插件<a href="https://mr-metasequoia.github.io/tools/pretendtoplay/">假装摸鱼小助手</a>，只是做了非常简单的修改，几乎是剽窃。<a href="https://mr-metasequoia.github.io/tools/Bangs/">苹果刘海</a>则更是重量级，<span class="heimu">是完全的剽窃。</span>  </li><li><a href="https://mr-metasequoia.github.io/">本博客</a>。虽然使用了云游君的主题，还有各种各样的框架、第三方插件，但你仍可以把<em>Mr.水杉の休憩处</em>视作与我本人高度相关的东西。  </li><li><a href="https://gitee.com/shuishanmetasequoia/outdoor-route-planning-system">户外路线规划系统</a>，是JavaWeb专业课的期末大作业，算是这学期我做的最正经的东西了。基于Spring Boot和MyBatis-Plus，连接了MySQL数据库，有成员、队伍、活动三张表。基本上就是个CRUD<span class="heimu" title="Create, read, update, and delete">增查改删</span>系统。  </details></li></ol><details>  <summary>赠品·寒假里做的东西</summary><ol><li><a href="https://mr-metasequoia.github.io/tools/watchingvideo/">乐多本地解析</a>，注意这里我特指的是域名解析器中的<strong>乐多本地解析</strong>这个按钮，我在它身上花了最多功夫。这是一个用于解析视频网址，播放付费视频的东西。  </li><li>两个爬虫，一个<a href="https://gitee.com/shuishanmetasequoia/funny-little-thing/blob/master/spider.py">静态</a>一个<a href="https://gitee.com/shuishanmetasequoia/funny-little-thing/blob/master/moyu.py">动态</a>。只是用来爬个确定位置的单一元素，浅尝辄止、没什么用。  </li><li><a href="https://mr-metasequoia.github.io/tools/RuiPingGenerate/">时事锐评生成器</a>，这个好玩。模仿胡锡进的说话风格生成一篇锐评，基于狗屁不通文章生成器修改。我改的这个行文考虑前因后果，理性拉满。  </li><li>春节期间限定的<strong>博客全局音乐播放器</strong>，该组件的交互，顿挫、丝滑，非常过瘾。因为一些兼容性问题而不得不舍弃。  </li><li>HTML小游戏<a href="https://gitee.com/shuishanmetasequoia/funny-little-thing/blob/master/babymilk.html">宝宝喝奶</a>，这个怪无聊的，不推荐玩。 </details></li></ol><p>所幸我也有做正经的事：认认真真地准备了英语六级。不过<a href="../52d3">考试的时候却遇到了意外</a>，实在令人非常沮丧。<br>“真的已有尽力了！”——就算这样辩解，也不会让自己好受太多。</p><p>终于，在六级结束之后短短一周，我即将迈进考研的考场了！</p><img src="/images/photo/酒店.jpg" alt="酒店" style="width:700px;" / loading="lazy"><p class="info">考试前一天晚上住进的酒店</p>  <p>在特别冷的冬天混进了考研学生的队伍，同他们一起参与了这场的考试。<br>因为真的只是在浪费时间，所以情绪也没有想象中那样起伏。<br>我只是觉得：<strong>这个冬天，真的好冷啊。</strong>  </p>    <div id="aplayer-nzUkWzmz" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1803574774" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86" data-loop="none"    ></div>  <p>接下来说点与学习无关的事。</p><p>宿舍五楼的拐角，阳光照进来的地方，经常能看见一只猫。10月的某一天，我回到寝室，看见旺财趴在我的桌底下，两只爪子做着踩奶的动作。我对动物向来都是敬而远之的，不觉得自己能照顾好它们，产生不出什么好感，也畏惧一个生命的吃喝拉撒、生老病死。  </p><img src="/images/photo/旺财.jpg" alt="旺财·初见" style="width:700px;" / loading="lazy"><p class="info">我第一次见到旺财</p><p>在舍友们的跃跃欲试下，宿舍里姑且还是养起了猫。用<em>得物</em>鞋盒给旺财做奢华小窝，买了它喜欢吃的猫粮，<span class="heimu"><strong>铲屎</strong>当然也是逃不掉的</span>。咱的心灵有没有被治愈我不好说，但它晚上确切会吵的舍友不能睡觉，而且还导致其中两位去医院打了几针狂犬疫苗。<br>学期结束的时候，我们中也没人有条件接着养它。于是把旺财放到了学校北区，一块已有其他猫居住的草坪：<span title="You're free."><strong>你免费了</strong></span>。</p><img src="/images/photo/租房.jpg" alt="租房" style="width:700px;" / loading="lazy"><p class="info">暑假里难得太阳很好的一天</p><p>在这个做什么都可以，往哪里都能去的阶段，我稀里糊涂就对自己敷衍过去了。只是看着脚下，无论如何不愿意抬头。沾沾自喜我也许还算个“人才”，但是没有长远打算的话，未来总要吃苦头的。</p><p>本学期我已经体验过轻飘飘行事的滋味了。举重若轻固然潇洒，却不是现在的我可以做到的。接下来希望你活得认真一点，在工作生活日渐稳定后，再来考虑你的个性。</p><p>让学习变得有趣的秘诀，就是<strong>认真学习</strong>。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;style&gt;
+.heimu, .heimu a, a .heimu, .heimu a.new {
+    background-color: #252525;
+    color: #252525;
+    text-shadow: none;
+}
+.heimu:hover,</summary>
+      
+    
+    
+    
+    
+    <category term="学期末工作总结报告" scheme="https://mr-metasequoia.github.io/tags/%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>更新日志v1.2</title>
+    <link href="https://mr-metasequoia.github.io/posts/fe7/"/>
+    <id>https://mr-metasequoia.github.io/posts/fe7/</id>
+    <published>2022-01-05T05:48:43.000Z</published>
+    <updated>2022-01-17T12:51:23.596Z</updated>
+    
+    <content type="html"><![CDATA[<style>.add{    color: gray;    font-size: 12px;    text-align: center;}</style><h2 id="姑且还算是蛮厉害的一次更新哦？"><a href="#姑且还算是蛮厉害的一次更新哦？" class="headerlink" title="姑且还算是蛮厉害的一次更新哦？"></a>姑且还算是蛮厉害的一次更新哦？</h2><p><strong>修复：</strong></p><blockquote><ul><li>修复了Valine评论系统<strong>超高概率</strong>加载不出的问题，现在让LeanCloud走白名单了。</li><li>由于anonyfiles经常502，所以把苹果刘海和假装摸鱼小助手移到了gitee上。</li></ul></blockquote><hr><p><strong>新增：</strong></p><div class="base"><blockquote><ol><li>设置了4个特殊公祭日，当天全站所有页面都将变为灰色。<blockquote><p>和伙伴们约好，在他们暴毙后，将他们的忌日也加入到博客的<strong>特殊公祭日</strong>中。</p></blockquote></li></ol></blockquote></div><blockquote><ol start="2"><li>新增<a href="https://mr-metasequoia.github.io/sponsor/">“金 主 之 家~☆”</a>，也就是榜单！收录对本站进行赞赏的nice guy.</li><li>博客现在可以被任意RSS阅读器订阅了。</li></ol></blockquote><hr><p><strong>修改：</strong></p><blockquote><ol><li>将文章链接修改为短链接，现在仅需至多<strong>4位数字和字母</strong>就可以标识博文。</li><li>其他为了美观起见进行的修改。</li></ol></blockquote><hr><img src="/images/mourn.jpg" alt="特殊公祭日" style="width:700px;" / loading="lazy"><p class="add">虚位以待</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;style&gt;
+.add{
+    color: gray;
+    font-size: 12px;
+    text-align: center;
+}
+&lt;/style&gt;
+
+&lt;h2 id=&quot;姑且还算是蛮厉害的一次更新哦？&quot;&gt;&lt;a href=&quot;#姑且还算是蛮厉害的一次更新哦？&quot; </summary>
+      
+    
+    
+    
+    <category term="博客" scheme="https://mr-metasequoia.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="更新日志" scheme="https://mr-metasequoia.github.io/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>更加优雅地追动漫</title>
+    <link href="https://mr-metasequoia.github.io/posts/c9b8/"/>
+    <id>https://mr-metasequoia.github.io/posts/c9b8/</id>
+    <published>2021-12-29T10:59:12.000Z</published>
+    <updated>2022-06-22T02:55:34.475Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://csshake.surge.sh/csshake.min.css"><style>.heimu, .heimu a, a .heimu, .heimu a.new {    background-color: #252525;    color: #252525;    text-shadow: none;}.heimu:hover, .heimu:active,.heimu:hover .heimu, .heimu:active .heimu {    color: white !important;}.heimu:hover a, a:hover .heimu,.heimu:active a, a:active .heimu {    color: lightblue !important;}.heimu:hover .new, .heimu .new:hover, .new:hover .heimu,.heimu:active .new, .heimu .new:active, .new:active .heimu {    color: #BA0000 !important;}.add{    color: gray;    font-size: 12px;    text-align: center;}</style><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>最近受到碎片化娱乐的影响，蓦地竟然拿不出区区24分钟来看番<span class="heimu">(也就是动画)</span>了。<br>好像变成了那种疲惫的大人，本分之余，却连玩的力气也丧失殆尽。<br>——这是令人无法接受的！既然生活，我们就要寻找快乐。以下是我常用、整理的一些追动漫的技巧，也许稍显繁琐，但不失为优雅的前奏。</p><br/><h2 id="漫画"><a href="#漫画" class="headerlink" title="漫画"></a>漫画</h2><p>首先复读一个常识：<strong>动漫</strong>是动画与漫画的合称，而非<em>对日本动画的特指</em>。水杉我并不介意大家混用，但是为数众多的<a href="https://mzh.moegirl.org.cn/zh-hans/%E5%8A%A8%E6%BC%AB%E5%A9%86%E7%BD%97%E9%97%A8">动漫婆罗门</a>经常为此感到震怒，需要特别留意。  </p><p>那么，首先推荐一个移动端应用<a href="https://github.com/Haleydu/Cimoc/releases/tag/1.7.20"><strong>Cimoc</strong></a> ,这是一个聚合了大量图源的漫画浏览器，可以用它免费看到几乎所有漫画。    </p><blockquote><p>注意：我当然支持您为自己喜欢的作品慷慨解囊。不过，<strong>实体书</strong>显然是比漫读券更好的选择。</p></blockquote><blockquote><p>截止到博文发表，Cimoc的最新版本是1.7.28。遗憾的是，作者在最近的几个版本中加入了令人讨厌的“摇一摇”跳转至第三方页面的开屏广告。<br>安卓5.0以上的手机，推荐安装<a href="https://wwc.lanzouo.com/ijJKly2ql6j"><strong>版本1.7.21</strong></a> 密码:<strong>1721</strong>,该版本尚没有加入开屏广告。<br>安卓4.X的手机，推荐安装<a href="https://wwc.lanzouo.com/iYBt5y2qlcf"><strong>版本1.7.19</strong></a> 密码:<strong>1719</strong>,作者之后将不再更新安卓5.0以下的版本。<br>&nbsp;<br>Cimoc作者的另一个作品<a href="https://gitee.com/Haleydu/du-update/releases"><strong>Du</strong></a>,通过安装插件的方式看漫画，不必像Cimoc一样频繁更新,<strong>大推荐</strong>！<br>该软件目前还处于开发版v0.0.1<span class="heimu">考虑到作者开始给Cimoc加入广告了，我对Du的前景持保留态度</span>  </p><p><span style="color: gray;    font-size: 12px;">2022年6月22日更新：gitee现在提交代码需要审核了，保险起见提供一个<a href="https://wwu.lanzoum.com/idBF3069gcqf"><strong>Du</strong>的蓝奏云下载链接</a>，密码：du71</span></p></blockquote><img src="/images/AC/Du.jpg" alt="Du" style="width:800px;" / loading="lazy"><p class="add">Du</p><br/><p>即使考虑到近年来用户流失严重，李彦宏操作令人窒息，百度的名声也臭不可闻——但<strong>贴吧</strong>依然是二次元遗老的重要活动阵地。许多漫画的情报和汉化都在这里首发，而且你可以轻易找到你的同好。  </p><p>然而，从官方渠道下载的百度贴吧APP，其易用性极差、臃肿而且充斥着广告和不必要推送，网页端的体验则更是被反复阉割。这里推荐一个第三方客户端<a href="https://github.com/HuanCheng65/TiebaLite/releases/tag/v3.8.3"><strong>贴吧Lite</strong></a>,页面精简、操作丝滑，比原版贴吧不知道高到哪里去了。  </p><blockquote><p>贴吧Lite<a href="https://wwc.lanzouo.com/i4RS2y2wluj">国内地址</a> 密码:<strong>lite</strong></p></blockquote><br/><h2 id="动画"><a href="#动画" class="headerlink" title="动画"></a>动画</h2><p>在杂志上连载的漫画，经过读者的检验而没被腰斩的，最终将有机会被动画化。<br>漫改动画经常被诟病细节上有种种不足，但是动起来、拥有了色彩和配音的作品，总是更有利于传播。如果又遇上好的制作，作为粉丝，简直没有再幸福的事情。<br>近年来还有许多动画公司制作的原创动画，质量也非常高，不得不品尝。  </p><p>如果您愿意花钱购买各大视频平台的会员来追番，那自然再好不过。  </p><img src="/images/AC/倒闭变质.jpg" alt="倒闭变质" style="width:500px;" / loading="lazy"><p class="add">很喜欢蒙古上单说过的一句话</p><p><strong>但是</strong>，如果您希望免费看番——答应我，别去那些充斥广告、画质低清，甚至动画里还打有水印的垃圾网站好吗？  </p><p>以下是我推荐的一些在线看番网站，不妨来这里看看：</p><blockquote><p><a href="https://www.agemys.com/"><strong>AGE动漫</strong></a> 非常漂亮、布局合理的网站。当季新番每一集都能很快更新，目录索引也很好用。<br><a href="https://www.yhdmp.cc/"><strong>樱花动漫(P)</strong></a> 老牌动漫网站，资源不够丰富。<br><a href="https://www.dyjihe.cc/cartoon"><strong>新电影集合</strong></a> 资源异常丰富的网站。除了动画以外，还收录了海量电影电视剧等。缺点在于没有目录索引和每日更新表，需要自行搜索，片源也很杂乱。<br><a href="https://www.qkan8.com/"><strong>去看吧</strong></a> 崭新出厂的动漫网站，不太好用。但是一些古早动画可以在这里被找到。<br><a href="https://www.hdddex.com/"><strong>EDD动漫</strong></a> 我的次元避风港，现已处于<strong>半瘫痪</strong>状态。不推荐访问，但它是我的二次元起点。  </p></blockquote><p>然而，在线看番固然便利，盗版平台的瞎眼画质和不透明水印却颇为恼人。<br>事实上只要稍微进行一番操作，就可以享用超清的画质，而且绝无水印——包括有些人已经习以为常的平台水印。  </p><p>删减，P图，圣光黑幕，延迟放送？<span class="heimu">B站：你报我备案号得了</span><br>是时候和这些劣质体验说再见了，让我们改用更加优雅的追番姿势。</p><p>一集动画的首先放映，通常是在日本电视台。之后字幕组开始工作，简单的汉化一般在数小时内就可以完成，复杂的特效字幕和更高清的片源则需要额外几天的等待。  </p><p>在字幕组完成了他们伟大的工作后，会上传到动画资源站。以下是一些资源站的推荐：  </p><blockquote><p><a href="http://www.miobt.com/"><strong>＊MioBT＊</strong></a> 最漂亮、资源最齐全的站，<strong>二次元人的祖国</strong>。<br><a href="https://bangumi.moe/"><strong>萌番组</strong></a> 适合移动端访问的站，有一个非常有趣的时间轴功能。<br><a href="https://acg.rip/"><strong>ACG.RIP</strong></a> 模仿了一个外国冻鳗站，堪堪能用。  </p></blockquote><br/><h2 id="下载和播放"><a href="#下载和播放" class="headerlink" title="下载和播放"></a>下载和播放</h2><p>等一下，考虑到最差情况我姑且问一句——您该不会是打算用<em>迅雷</em>来下载这些资源吧？<br>对于使用磁力链接下载的文件，迅雷的机制是只进不出，公然违反P2P协议。因此迅雷现在已经被许多资源提供者屏蔽。<br>我推荐您使用以下客户端：</p><blockquote><p><a href="https://xdown.org/"><strong>Xdown</strong></a> 专业的文件下载与分享工具，免费无广告。<br><a href="https://www.utorrent.com/intl/zh_cn/"><strong>µTorrent</strong></a> 收费软件，其移动端版本可以边下边播。当然，你可以白嫖→<a href="https://acold.lanzoui.com/i5SFhraehpi">白嫖地址</a>  </p></blockquote><p>……说起来，你觉得在Bilibili看番的核心竞争力是什么来着？<br>要我说，应该是有趣、相对高质量的弹幕。打开了弹幕的话，就会有一种和小伙伴们一起追番的感觉，热热闹闹的。<br>可是我没有大会员哩。收费番剧的弹幕在其他地方看不到，怎么办？ </p><blockquote><p>推荐使用Chrome浏览器插件<a href="https://chrome.google.com/webstore/detail/b%E7%AB%99bilibil%E5%BC%B9%E5%B9%95%E4%B8%8B%E8%BD%BD%E7%94%9F%E6%88%90ass%E5%AD%97%E5%B9%95/dcplofbjeacbmklahfjhnfnpkbdacbgn"><strong>B站bilibil弹幕下载生成ASS字幕</strong></a>，用这个可以将任意B站视频的弹幕下载下来。<br>贴心的我,当然也为你准备了<a href="https://wwc.lanzouo.com/iKQP7y3k55c">国内地址</a> 密码:<strong>1240</strong>  </p></blockquote><img src="/images/AC/弹幕下载.jpg" alt="弹幕下载" style="width:800px;" / loading="lazy"><br/><blockquote><p>搭配现代视频播放器<a href="http://potplayer.tv/?lang=zh_CN"><strong>Potplayer</strong></a>中的“次字幕输出”功能，即可达到B站弹幕的效果。</p></blockquote><img src="/images/AC/加载弹幕.jpg" alt="加载弹幕" style="width:800px;" / loading="lazy"><p class="add">右键→字幕→选择字幕→次字幕输出→添加字幕...</p><br/><img src="/images/AC/弹幕效果.jpg" alt="弹幕效果" style="width:800px;" / loading="lazy"><p class="add">效果</p><br/><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>以上就是本文的全部内容。  </p><p>如果看了觉得对您有所帮助，不说打赏吧<span class="heimu">能请我喝杯咖啡最好(球球了</span><br>——希望可以来点留言，或者看看我做的其他东西。</p>]]></content>
+    
+    
+    <summary type="html">重塑老二次元荣光，吾辈义不容辞！</summary>
+    
+    
+    
+    <category term="教程" scheme="https://mr-metasequoia.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="动漫" scheme="https://mr-metasequoia.github.io/tags/%E5%8A%A8%E6%BC%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>遇到意外的六级考试</title>
+    <link href="https://mr-metasequoia.github.io/posts/52d3/"/>
+    <id>https://mr-metasequoia.github.io/posts/52d3/</id>
+    <published>2021-12-18T15:15:56.000Z</published>
+    <updated>2021-12-29T11:38:33.173Z</updated>
+    
+    <content type="html"><![CDATA[<p>墨菲定律言出法随，昨天还想着只要正常发挥什么结果都能接受的呢。<br>结果今天遇到了在六级的听力部分，耳机里充满了雪花噪音的事故。<br>考试的时候以为是问少伟借的卡西欧手表的影响（电波表什么的）——因为用手遮挡一下耳机的话，确可以消除雪花噪音。<br>后来回到宿舍再试，发现那和手表无关。大概是学校里的信号屏蔽器发出的干扰信号？或者别的什么东西的干扰。<br>考场上我可不知道这件事啊，以为是自己戴了电波表的缘故，还害怕考场违纪什么的。</p><p>作文考了一个新题型，但我正常发挥了。<br>听力部分因为雪花噪音的缘故，它完全盖过了试题的音频，时断时续，什么都没听懂。我根据关键词匹配确定了一些选项，然而其他都是蒙的。<br>选词填空、段落匹配和第一篇阅读都不难，第二篇阅读作答则有些不大确定。<br>翻译有些词我搞错了，但最关键的revolution革命我没搞错，这就不会出大问题。<br>这次的考试总体简单，原本该是轻松愉快的。</p><p>遇到这种小概率Oops事件，真的很有些不甘心。<br>客观稍偏保守的估分是422.45分。等到真正出来成绩的那天，应该会比这个分数再高那么一点，应该是可以通过的。<br>只是我勉强过了六级，这样的分数却对不起我的努力。<br>——我真的有尽力！做了许多题，用了很多时间。经历了相当程度的紧张，也耗费了相当的精力。<br>原来考场上有时并不那么安静，没有那么安逸，也不能让你享受。</p><p>至少顶着如此压力我仍然完成了这场考试，该夸！</p><p>哪里有不留遗憾的青春？<br>你做过的题，得到的只被自己认可的分数，那些喜悦，是确实的。</p>]]></content>
+    
+    
+    <summary type="html">我的又一个遗憾</summary>
+    
+    
+    
+    <category term="日记" scheme="https://mr-metasequoia.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>咖啡风味地图</title>
+    <link href="https://mr-metasequoia.github.io/posts/5e64/"/>
+    <id>https://mr-metasequoia.github.io/posts/5e64/</id>
+    <published>2021-12-07T09:01:32.000Z</published>
+    <updated>2022-09-04T02:44:32.952Z</updated>
+    
+    <content type="html"><![CDATA[<p>打算用简单几个风味描述，概括一下我喝过的那些<ruby><rb>单一产地</rb><rt>single origin</rt></ruby>和固定拼配的咖啡。</p><p>考虑到每支豆子的批次和烘焙程度各有不同，以下一家之言，仅供参考。  </p><blockquote><p><strong>推荐程度</strong>：<br>🤮&lt;👎&lt;无表情&lt;🤔&lt;🙂&lt;👍&lt;😍  </p><p>最近更新：2022-9-4</p></blockquote><h2 id="亚洲"><a href="#亚洲" class="headerlink" title="亚洲"></a>亚洲</h2><p><strong>中国</strong></p><blockquote><p>巴比伦庄园 ▼</p><blockquote><p>白兰地蜜处理·真红（淡红酒，棉花糖，浓郁橘子水）</p><p>可乐蜜处理（不新鲜的哈密瓜）</p><p>双重发酵红酒处理·鸳鸯醉（明显红酒味）👍</p><p>樱桃蜜处理·真红三号（均衡顺滑，淡红酒）</p><p>夏娜（独特辣味）🤔</p></blockquote><p>海南 ▼</p><blockquote><p>兴隆咖啡·太阳河（超级浓稠，麦茶）👎 </p></blockquote><p>自制·保山（寡淡，草腥味，浓茶）🤮</p><p>云南保山·中咖园豆（甜饼干，美拉德）🙂</p><p>曼老江·阿明亮·水洗（明亮，便利店美式质感）</p><p>那姆庄园·荔汁酒橙·慢速日晒（榴莲，平庸乏味）👎</p><p>辛鹿·樱桃蜜柚拼配（柠檬，柚子皮，杂味）👎</p></blockquote><p><strong>缅甸</strong></p><blockquote><p>红蜜处理·铁皮卡（酸苦并存而明显，坚果味）</p></blockquote><p><strong>印度</strong></p><blockquote><p>自制·皇家罗姆斯塔（湿透的不吸水沙砾，仓鼠垫料，超低body感）🤮</p><p>季风马拉巴（烤肉香料，炒过栗子的黑砂，超级苦）🤮</p></blockquote><p><strong>印度尼西亚</strong></p><blockquote><p>Gayo曼特宁（美拉德甜，浓烈焦苦）</p><p>林东曼特宁（红糖，新鲜面包）👍</p></blockquote><p><strong>巴布新几内亚</strong></p><blockquote><p>天堂鸟（干净内敛，奶脂气）🤔  </p></blockquote><p><strong>日本</strong> <span style="font-size:12px;color:gray">拼配</span></p><blockquote><p>UCC offee 红罐咖啡粉（不新鲜，粗颗粒，香甜，无酸）🤔<br><span style="font-size:12px;color:gray">红罐 MOCHA Blend 摩卡综合粉。由巴西、萨尔瓦多等产地拼配</span></p></blockquote><h2 id="非洲"><a href="#非洲" class="headerlink" title="非洲"></a>非洲</h2><p><strong>埃塞俄比亚</strong></p><blockquote><p>耶加雪菲 ▼</p><blockquote><p>前街·耶加雪菲（甜橙）👍</p><p>G2柯切尔（轻质，便利店美式）👎</p><p>G1柯切尔·碧罗雅处理站（大麦，甜甜圈，酸梅酱）</p><p>全红果红酒处理（甜西红柿，糖渍梅干）👍</p></blockquote><p>古吉 ▼</p><blockquote><p>格拉纳庄园·G3·日晒瑰夏（清淡柔和苦，低温冒甜）</p><p>安娜索拉·桃乐茜·酵素水洗（草莓优格）😍</p></blockquote><p>西达摩 ▼</p><blockquote><p>咖啡基因·西达摩（明显果酸）</p><p>G1·罕贝拉·慢速日晒（蜂蜜，淡柠檬水）</p></blockquote></blockquote><p><strong>肯尼亚</strong></p><blockquote><p>中央地区·PB Top·圆豆（糖炒香瓜子，奶粉裹话梅）🤔</p></blockquote><p><strong>乌干达</strong></p><blockquote><p>布吉素 ▼</p><blockquote><p>布吉素AA（苦，平平无奇）👎</p><p>嬉皮瀑布·莫吉托·厌氧日晒（青芒果，奶糖，草腥味）</p></blockquote></blockquote><p><strong>卢旺达</strong></p><blockquote><p>樱佐芙·水洗波旁（杂味甜蛋卷，黑加仑）</p></blockquote><p><strong>坦桑尼亚</strong></p><blockquote><p>乞力马扎罗AA（受潮香木，浑浊酸）</p></blockquote><h2 id="美洲"><a href="#美洲" class="headerlink" title="美洲"></a>美洲</h2><p><strong>墨西哥</strong></p><blockquote><p>恰帕斯产区Muxbal庄园水洗SHG（青苹果，蜂蜜）👍</p></blockquote><p><strong>危地马拉</strong></p><blockquote><p>安提瓜 ▼</p><blockquote><p>阿卡特SHB（猪肉铺，沙棘汁，烟熏，肉桂）</p><p>花神·水洗（甜叶菊代糖，火山砂石烟熏，钝感酸）</p></blockquote></blockquote><p><strong>洪都拉斯</strong></p><blockquote><p>荔枝兰（荔枝，白兰地，熟透水果）😍</p></blockquote><p><strong>尼加拉瓜</strong></p><blockquote><p>pola产区·水洗·量产SHG（牛奶杏仁）</p></blockquote><p><strong>哥斯达黎加</strong></p><blockquote><p>塔拉珠 ▼</p><blockquote><p>量产SHB（香草精，干烟丝，苦麦茶）👎</p><p>前街·塔拉珠（兑水的蔓越莓酱）</p></blockquote></blockquote><p><strong>巴拿马</strong></p><blockquote><p>花蝴蝶（花香，淡柑橘，明显甘甜）👍</p></blockquote><p><strong>哥伦比亚</strong></p><blockquote><p>慧兰 ▼</p><blockquote><p>咖啡基因·慧兰（酸甜，矿泉水）</p><p>量产Supremo·卡杜拉（甜木头，酸浆果）🙂</p><p>粉红波旁（甜奶油，青苹果，雪梨）</p></blockquote><p>考卡山·精致水洗（花蜜，花茶，红茶）👍</p><p>天堂庄园·草莓3.0（甜香，轻质，酸草莓）🙂</p><p>娜玲珑（尖锐柠檬）</p><p>麦德林·绿宝石（黄油，菠萝，柚子）👍</p></blockquote><p><strong>巴西</strong></p><blockquote><p>日晒·黄波旁（阳光，腰果）</p><p>冷水厌氧蜜处理·黄卡杜艾·天使蜜吻（巧克力，炭烧，罐头甜水）</p><p>山度士（平平淡淡）</p><p>喜拉多（醇厚）</p><p>喜拉多半日晒NY2 FineCup（坚果，奶油果仁糖）🤔</p><p>米纳斯州·厌氧日晒（草莓，阳光）👍</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;打算用简单几个风味描述，概括一下我喝过的那些&lt;ruby&gt;&lt;rb&gt;单一产地&lt;/rb&gt;&lt;rt&gt;single origin&lt;/rt&gt;&lt;/ruby&gt;和固定拼配的咖啡。&lt;/p&gt;
+&lt;p&gt;考虑到每支豆子的批次和烘焙程度各有不同，以下一家之言，仅供参考。  &lt;/p&gt;
+&lt;blockquote</summary>
+      
+    
+    
+    
+    <category term="教程" scheme="https://mr-metasequoia.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="咖啡" scheme="https://mr-metasequoia.github.io/tags/%E5%92%96%E5%95%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>更新日志v1.1</title>
+    <link href="https://mr-metasequoia.github.io/posts/ea7/"/>
+    <id>https://mr-metasequoia.github.io/posts/ea7/</id>
+    <published>2021-12-05T04:45:30.000Z</published>
+    <updated>2021-12-29T11:38:33.176Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://csshake.surge.sh/csshake.min.css"><style>.heimu, .heimu a, a .heimu, .heimu a.new {    background-color: #252525;    color: #252525;    text-shadow: none;}.heimu:hover, .heimu:active,.heimu:hover .heimu, .heimu:active .heimu {    color: white !important;}.heimu:hover a, a:hover .heimu,.heimu:active a, a:active .heimu {    color: lightblue !important;}.heimu:hover .new, .heimu .new:hover, .new:hover .heimu,.heimu:active .new, .heimu .new:active, .new:active .heimu {    color: #BA0000 !important;}</style><h2 id="添置了一些意义不明的新功能"><a href="#添置了一些意义不明的新功能" class="headerlink" title="添置了一些意义不明的新功能"></a>添置了一些意义不明的新功能</h2><p><strong>新增：</strong></p><blockquote><ol><li>大震撼！<a href="https://mr-metasequoia.github.io/tools/metasequoiayun/">水杉云</a>！！主要用于站长自己跨设备临时保存小文件，也可以用来接收访客上传的文件。 </li><li><a href="https://mr-metasequoia.github.io/girls/">我心爱的纸片人</a>页，<del>是二次元的进</del></li><li>梦想照进现实！(大雾 —— <a href="https://mr-metasequoia.github.io/tools/Controller/">催眠控制器</a>，可以让大家都<strong>强·制·喜·欢</strong>上Mr.水杉的样子！</li></ol></blockquote><hr><p><strong>特效：</strong></p><blockquote><ol><li>全新<span class="heimu" title="厉害吧">『黑幕』</span>特效。<div style="width:fit-content" class="shake">全新『嗷嗷大叫』特效。</div></li></ol></blockquote><hr><p><strong>其他：</strong></p><blockquote><ol><li>添加更多“一言”。</li><li>习得了限制图片尺寸的办法。</li><li>习得了将图片置为黑白的办法。</li><li>不再将博客<em>更新日志</em>设为“技术文章”分类层级。</li></ol></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://csshake.surge.sh/csshake.min.css&quot;&gt;
+&lt;style&gt;
+.heimu, .heimu a, a .heimu, .heimu a.new {
+ </summary>
+      
+    
+    
+    
+    <category term="博客" scheme="https://mr-metasequoia.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="更新日志" scheme="https://mr-metasequoia.github.io/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>更新日志v1.0</title>
+    <link href="https://mr-metasequoia.github.io/posts/ce66/"/>
+    <id>https://mr-metasequoia.github.io/posts/ce66/</id>
+    <published>2021-11-21T04:59:33.000Z</published>
+    <updated>2021-12-29T11:38:33.174Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一个稳定的正式版本"><a href="#一个稳定的正式版本" class="headerlink" title="一个稳定的正式版本"></a>一个稳定的正式版本</h2><p><strong>修复：</strong></p><blockquote><ul><li>公告notice的样式，现在可以正常部署了。</li><li>一言Hitokoto，现在可以稳定掉落了。</li><li><a href="https://mr-metasequoia.github.io/categories/">分类categories</a>和<a href="https://mr-metasequoia.github.io/tags/">标签tags</a>的页面，现在可以使用了。<blockquote><p>注：分类具有层级性，且一篇文章往往只在一个分类下。不同的是，你可以用多个标签来描述同一篇文章。</p></blockquote></li></ul></blockquote><hr><p><strong>修改：</strong></p><blockquote><ol><li>将博客背景由原来的<a href="https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0-blur-30px.jpg">默认</a>和<a href="https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/galaxy.jpg">夜间</a>，修改为现在的<a href="https://mr-metasequoia.github.io/images/%E7%BB%BF%E8%89%B2%E8%83%8C%E6%99%AF.jpg">默认</a>和<a href="https://mr-metasequoia.github.io/images/%E7%BB%BF%E8%89%B2%E6%9E%81%E5%85%89.jpg">夜间</a>。</li><li>将一言的句子来源更换为自定义data下的sentences.json</li><li>将<a href="https://yun.yunyoujun.cn/">Hexo-Theme-Yun帮助文档</a>转移到工具集中。</li><li>将网站图标更换为“tree”，在侧边栏添加一枚<a href="https://mr-metasequoia.github.io/images/%E6%B0%B4%E6%9D%89%E5%8F%B6%E5%AD%90.jpg">水杉的叶子</a>。</li><li>修改网站的主题色为<a href="https://colorate.azurewebsites.net/zh/Color/3CB371"><strong>MediumSeaGreen</strong></a>。</li><li>其他出于美观考虑的修改。</li></ol></blockquote><hr><p><strong>新增：</strong></p><blockquote><ol><li>全新<a href="https://mr-metasequoia.github.io/tools/">工具集</a>页面！存放各种好玩有趣，原创或者非原创的小插件、小应用及其帮助文档。</li><li><a href="https://mr-metasequoia.github.io/tools/watchingvideo/">剧名解析器</a>，一个优雅的前端入口。输入剧名即可跳转至第三方网站，免费试看几乎所有电影、电视剧和动画。</li><li>生活必需品，云游君の招牌<a href="https://mr-metasequoia.github.io/tools/AirConditioner/">便携小空调</a>。<em>为你的夏日带去清凉！</em></li><li>部署了<strong>Valine</strong>，一款基于LeanCloud的快速、简洁且高效的无后端评论系统。现在你可以给我留言了！</li><li>为<a href="https://mr-metasequoia.github.io/tools/Bangs/">苹果刘海</a>和<a href="https://mr-metasequoia.github.io/tools/pretendtoplay/">假装摸鱼小助手</a>添加了 <em>苹果式中文</em> 风格的帮助文档。</li></ol></blockquote>]]></content>
+    
+    
+    <summary type="html">爆诞！登堂入室的全新版本</summary>
+    
+    
+    
+    <category term="博客" scheme="https://mr-metasequoia.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="更新日志" scheme="https://mr-metasequoia.github.io/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>优化博客</title>
+    <link href="https://mr-metasequoia.github.io/posts/406d/"/>
+    <id>https://mr-metasequoia.github.io/posts/406d/</id>
+    <published>2021-11-12T16:14:59.000Z</published>
+    <updated>2021-12-29T11:38:33.155Z</updated>
+    
+    <content type="html"><![CDATA[<p>博客用的是Hexo的框架和GitHub的Pages服务。因为对云游君的憧憬，所以使用了他的主题。<br>花了大半天时间对yun.yml配置文件修修改改，基本上把博客弄到可以看的地步了。</p><hr><p>但还有以下问题：</p><ul><li>页脚的样式不知道怎么改，导致博客背景为了协调起见只能选择 <em>极浅</em>&amp;<em>极深</em>  两种色调</li><li>博客背景图的透明度在本地可以正常调整，但无法部署</li><li>公告notice的格式，也是本地正常，但无法部署</li><li>“一言”还需调整成我喜欢的句子</li></ul><hr><p>除了这些问题，接下来我还想做的事情有：</p><ol><li>加入云游君招牌<strong>小空调</strong></li><li>加入留言板</li><li>加入视频播放器</li></ol><p>以上。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;博客用的是Hexo的框架和GitHub的Pages服务。因为对云游君的憧憬，所以使用了他的主题。&lt;br&gt;花了大半天时间对yun.yml配置文件修修改改，基本上把博客弄到可以看的地步了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;但还有以下问题：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;页脚的样式不知道怎么</summary>
+      
+    
+    
+    
+    <category term="博客" scheme="https://mr-metasequoia.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>大四开学之前</title>
+    <link href="https://mr-metasequoia.github.io/posts/764f/"/>
+    <id>https://mr-metasequoia.github.io/posts/764f/</id>
+    <published>2021-10-21T08:20:55.000Z</published>
+    <updated>2022-03-01T05:23:46.573Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>这是一封用<a href="https://www.hi2future.com/">时光邮局</a>寄给未来的信。<br>我实在是怕极了开学，所以写了这封信寄给自己，希望多少能够消除一点儿畏惧。</p></blockquote><p>听我说，林辰。这是来自14天前的我的想法，也许可以给你一个及时的宽慰。</p><p>考研是你最害怕的东西——那你到底是害怕【没过】？还是害怕【没考】？</p><p>【没过】：会让郭咏雯小看你，会让真正朋友（如王超凡等）对你不切实际的期盼落到地上，会让虚假朋友（如吴越等）对你失去兴趣，自己会有一段时间觉得“果然还是很难受啊”，会有人追问你的分数。<br>【没考】：会让郭咏雯小看你，会无法兑现自己曾说出的话，会留下对下次报考的心理阴影。</p><p>如果你就此放弃考研，那么这回不去参加考试而换取更轻松的心态，当然无妨。<br>但如果你还想<strong>在未来终于成为研究生</strong>的话，这次要去！一定要去，哪怕交白卷，哪怕煎熬一天。<br>——这就是所谓的不留遗憾，先生。对你的整个青年时代都会有好处的。</p><p>想想十字路口的那个女孩吧，想想你对鸭肉的恐惧吧，想想你对郭咏雯的感情吧——绝不能在心里留下疙瘩！</p><p>本学期优先级最高的是大学英语六级。<br>其次是专业课，再次是考研，最次是三级网络。<br>毕业设计的正式动手，应该在研究生入学考试之后，先不要为它而焦虑。</p><p>最后我想说的是：<strong>林辰，你当然可以放弃！</strong><br>你最要紧的事情，就是结束这个学期，回到父母亲人身边。<br>只要你最终能够肉身回到福州，那就是胜利。在南京的一切社会关系，毕业后你都大可以撇清，她们再也不会出现了！<br>真正重要的人，你的父母弟弟、外公外婆、大姨她们，都在福州等你回来。林翰将去清华附中上学，新房也即将装修。将来若卖掉滨江正荣府，得钱足以支撑到任何时候。<br>王慧、王老师和柯含、顾鹏欧阳、毛亦乐、林存霆，他们不会在乎你成没成为研究生，他们在乎你是否过得好，是否活得快乐？</p><p>这个冬天，除了是考研、毕设和实习的冬天，也是白砂的水族馆、吉原花街、石之海，也许还有电锯人的冬天。<br>我是让你来享受这两年的！不要把乐趣变成煎熬。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;这是一封用&lt;a href=&quot;https://www.hi2future.com/&quot;&gt;时光邮局&lt;/a&gt;寄给未来的信。&lt;br&gt;我实在是怕极了开学，所以写了这封信寄给自己，希望多少能够消除一点儿畏惧。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;听我说，林</summary>
+      
+    
+    
+    
+    <category term="日记" scheme="https://mr-metasequoia.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    <category term="时间之外的往事" scheme="https://mr-metasequoia.github.io/categories/%E6%97%A5%E8%AE%B0/%E6%97%B6%E9%97%B4%E4%B9%8B%E5%A4%96%E7%9A%84%E5%BE%80%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>re:学期末工作总结报告s3e2</title>
+    <link href="https://mr-metasequoia.github.io/posts/9a31/"/>
+    <id>https://mr-metasequoia.github.io/posts/9a31/</id>
+    <published>2021-08-05T06:35:50.000Z</published>
+    <updated>2021-12-29T11:38:33.162Z</updated>
+    
+    <content type="html"><![CDATA[<p>清早下楼骑车的时候，总能看见、触碰到空气中飘浮的朵朵柳絮，有时将它们想象成一个个气泡，自己便好像沉在某一处的海底，克服着厚重的阻力而骑行了。</p><p>学校里那些不起眼的矮树和灌木，原来都是会开花的。先是院子里三棵绽出粉白色的杏树，再到院外满开、吸引了宿管阿姨拍短视频的樱花。待到又一届学生纷纷离校的那会儿，为他们送行的还有栀子的芬芳。</p><p>度过这个学期，我也看遍了她的四季，偶尔会觉得温馨也感到过归属感，静下来还是能听见心底的不安。因为被时间催促着向前，很多事情都来不及去想。</p><p>四月的时候，宿舍里讨论着各自将来的去处。被他们提醒了生活的严厉，我也该省视一番自己的情况——生活已不再风花雪月，而是碗里酱醋油盐。之后和父母通话，他们叫我只管做梦，不必顾家。不顾家当然是不可能的，但不妨我感动落泪。</p><p>学习方面的事情，都有循规蹈矩地去做。不偷懒，也没尽很大努力。考了计算机，继续走入党流程，然后撞上名为CET6的高墙。被问及考研的事情，也只敢说自己将慷慨赴死。唯独可以庆幸的，是我窥见网络世界的一隅——那属于无私开发者和我这种受益乡民的地方，比我想象中更充斥激情、也更有趣。</p><p>再来说说我的兴趣——<strong>诸君，我喜欢动漫</strong>。在这里一切都好，只是身边二刺螈の纯度实在不足，以至我不得不常把到嘴的梗给咽回去。巨人烂尾后，看网友们搞的小丑二创固然好笑，但我果然还是更想在线下同朋友畅聊，这keso漫画到底是如何辜负了我。本学期补了悠哉日常大王，四月番续作NOMAD也很对胃口。到下个学期还会有石之海、吉原遊廓和电锯人，阿 宅 狂 喜。</p><p>还有一件收获，就是同舍友们相处的更好了。这学期每场考试前的例行抱佛脚环节，我们四个坐宿舍里备考，探讨着一些试题，气氛可谓温馨。相信有了这一段经历，日后再向他们借钱也不好拒绝我了吧。</p><p>我一直有写日记的习惯，从16年开始到现在也挺久了，以后也还会接着写。常因此被认为不是什么正经人（毕竟正经人谁写日记啊），但我相信犯点文艺这你们肯定也干过。通过记录，可以回头宽慰那时尚不成熟的我，也可以给将来的自己留言，还能充分理解到怎么就搞成现在这个样子了。毕业的时候打算整理一些日记里与我朋友相关的部分，删去坏话发给他们作为同窗两年的礼物。</p><p><strong>现在看来是亲切怀念的事情，于过去大概也曾惊心动魄。</strong>记录带给我最大的收获，就是使我确信：无论如何困难，明晚你都将回到这里，坐在桌前，写下一天的日记。</p><p>日复一日，一如往常。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;清早下楼骑车的时候，总能看见、触碰到空气中飘浮的朵朵柳絮，有时将它们想象成一个个气泡，自己便好像沉在某一处的海底，克服着厚重的阻力而骑行了。&lt;/p&gt;
+&lt;p&gt;学校里那些不起眼的矮树和灌木，原来都是会开花的。先是院子里三棵绽出粉白色的杏树，再到院外满开、吸引了宿管阿姨拍短视频的</summary>
+      
+    
+    
+    
+    
+    <category term="学期末工作总结报告" scheme="https://mr-metasequoia.github.io/tags/%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>“The 下学期”的结束</title>
+    <link href="https://mr-metasequoia.github.io/posts/af76/"/>
+    <id>https://mr-metasequoia.github.io/posts/af76/</id>
+    <published>2021-06-29T16:00:00.000Z</published>
+    <updated>2022-01-14T07:05:49.376Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天早上去机房，董军老师教我们做Maven的配置，老实说实在太快了。再加上没网，我没能跟着完全做好。<br>计算机属性里的系统PATH设置和setting文件里的修改做好了，其他的部分不知道将来我会在什么时候捡起。</p><p>无论如何、无论如何，度过了这个学期的我，面对自己的专业，我想已经不必再那么心虚了。<br>胜任工作需要具备的技能，现在还很不够，但我作为科班出身的最宝贵的东西，即什么都接触一点的知识面，已经取得了。<br>我只要你足够相信，相信自己一定能在将来、需要的时候，及时学会安身立命的本领，那便是很大的收获了。</p><p>下午看完了Megalobox装甲重拳第二季的结局回，唐突投降结束的最终战，错愕、遗憾，又那么令人回味。<br>我也沉浸在Joe带给我们的梦里啊，期待那个战无不胜的Joe。<br>明明没有任何人需要燃尽，Joe已有了自己的归处。<br>韵味十足，真是一部好番。</p><p>傍晚宿舍里四个人一起去少伟和家明租的房子里看看，真是被那面积给惊到了。<br>少伟的房子，超级幽暗，宿舍大的地方塞进了卫生间×淋浴房，还有洗衣机冰箱镂空衣柜和大张的床，空间真的极小。<br>家明的房子那就更离谱了，放下一张床和一副桌椅后就只剩个落脚的地方，窗户也只有半个，和其他两个人共用一个小卫生间。<br>家明的层高大约一米七吧，我挺直了身子，头会死死顶住天花板的程度。如果少伟算是蜗居，这就是鸽子笼。<br>年轻人们真的有在吃苦，将来大家都该有个远大的前程。</p><p>在文鼎和舍友们一起吃了学期末的庆功宴，东西都很对胃口，吃爽了。还喝了茶百道的奶茶，这学期真是喝了不少奶茶呢。<br>辛苦学习之后也会认认真真的玩，会租超级小的房子，也和朋友们一起吃饭。<br>我要体验一个人该经历的一切，原来如此、原来如此。<br>——这便是我的乐趣了！</p>]]></content>
+    
+    
+    <summary type="html">Mr.水杉，计算机系，21岁的夏天，炽热的时间……</summary>
+    
+    
+    
+    <category term="日记" scheme="https://mr-metasequoia.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    <category term="时间之外的往事" scheme="https://mr-metasequoia.github.io/categories/%E6%97%A5%E8%AE%B0/%E6%97%B6%E9%97%B4%E4%B9%8B%E5%A4%96%E7%9A%84%E5%BE%80%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>re:学期末工作总结报告s3e1</title>
+    <link href="https://mr-metasequoia.github.io/posts/9b71/"/>
+    <id>https://mr-metasequoia.github.io/posts/9b71/</id>
+    <published>2021-01-26T06:29:09.000Z</published>
+    <updated>2021-12-29T11:38:33.160Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>每学期例行的学期末工作总结报告，今天终于写好发布啦。到了金科这里也没有拉下，这样很好。<br>并非只有最强者才被允许发声，任何人都应有发声的权利！毕竟，到底要多强才算强呢？<br>刘思对我说她喜欢看我写的总结，说我文章写的好。啊，被夸了呢。</p><p>我写文章的目的，是希望给我的朋友们带去亲切、快乐和有意思的东西。<br>更进一步的，是希望凭借自己的绵薄之力，使身边的气氛更加温和、积极、严肃活泼。<br>我想生活在那种环境里，希望身边都是一群好人。所以写文章，做这份努力。</p><p>我绝不能让读者感受到压力，绝不要贩卖焦虑。<br>我要带给读者的，是趣味、温馨、真实和力量。</p></blockquote><p>（就拿这篇作为本学期的学期末工作总结报告吧，偷个懒，也顺便免得我写一大堆你回我个“！！！男同竟在我身边”）</p><hr><p>写给〇：<br>（<em>写给林存霆</em>）</p><p></p>我想你也该放寒假了，假期里若有偶尔松懈的时候，还请不必在意。因为和接下来一年里你将做的努力、将达到的高效率相比，这些用于维系亲友感情、提高自身韧性的时间开销，想来是非常值得的。<p>我在南京过得很好，体验到许多新奇事物。<br>这是一座武德充沛的城市，我曾见到天空中留下多道锋利的尾迹云，复数直升机轰鸣着飞过，这种事情也超常频率地时有发生。<br>这里的山上有许多防空洞、混凝土堡，我还发现了一片隐蔽在林间的废弃军营，那地方的水泥地都开裂而长出植物了。<br>新同学里也有许多乐意爬山的伙伴，大家一起上山冒险是真的超绝快乐。</p><p>学校里有塑胶的室内羽毛球场地可供学生预约，每次去打球都有很尽兴。<br>校园里行道树多种的是栾树、黄连木和鹅掌楸。<br>栾树在早秋的黄花红果，鹅掌楸在更晚一些时候树叶颜色的缤纷，入冬之后随风漫天飞舞的黄连叶片——这些都很好看。<br>你不在现场，凭我描述是很难体会到的，稍有点遗憾。</p><p>关于这学期的收获吗？舍友教会了我乒乓球的横拍握法，那样确实会好打很多。<br>因为要排练朗诵的节目，和搭档的同学们互相间变得熟悉了。同女士相处的经验也迫真累积了一点点。<br>明知时间上来不及还是申请了<strong>入党</strong>，参加了知识培训班。有好好听课，开始学车，考了四级。<br>去南京大学领了原本作为planB的学位证。不知道为什么脸上突然<strong>爆痘</strong>，克服羞耻心而去医院开了药来涂。<br>在学期的末尾还终于不情不愿地动了动数学。<br>　　<br><strong>家里在苏州的房子总之还是卖掉了</strong>，将来我弟会在福州上学，十二年一贯制清华附中是真的省心（我酸死了）。<br>期间回了两次苏州，整理自己房间里的东西，再郑重地见见故人旧友们。<br>把书架上有意思的书都分了给大家，还有些朋友不在苏州的，我也挑了看起来合适的邮去。感觉这种还蛮酷的。<br>我把家里私藏的两把管制刀具托付给正好是邻居的同学（<em>王超凡</em>），他叫我再回苏州时可以去他家里取。<br>我还和王老师见了面，她总不乐意同我合影，“不要，又不是见最后一面了”——像这样硬往我脑袋上插flag</p><p>也有些烦恼，我现在作为大学生已经是一颗好韭菜了，满世界的都有人来向我贩卖焦虑，这是从前我所没有“资格”体验的。<br>在这里总能遇到很厉害的人，听闻他们做出很厉害的事，因为技不如人而感到自己毫无价值。<br>但是如果在这里逃了的话，去做别的什么事情，去干乱七八糟的杂活。<br>我总有一天会遇到就连乱七八糟的杂活干的都比我好的人，到那时该怎么办，我还要接着逃吗？又能逃到哪去呢。<br>　　<br><strong>因为我经过了努力考到这里，我才能遇见这些人，我才会因为遇见他们而感到惭愧、体验这些烦恼。</strong><br>专转本考试失败的话，不管〇（<em>郭咏雯</em>）有多厉害你都不会觉得难受了吧？这无论如何，都是一种进步。你多少靠近她一点了呢。<br>　　<br>你现在的所有烦恼，都是不久前自己所奢望的东西。</p><p>……话说的有些沉重了呢。总之我的目标还是快乐度过剩下这一年半，高兴为第一要义。可以输，不要逃，这样就好。<br>　　<br>有机会来我小破岛上玩。听说最近几年交通变得十分便利，更换了崭新的渡轮，基础设施也渐齐全些。<br>我过几天将回去确认。</p><p>最后，虽然稍显偏激而且有在宏大叙事里逃避现实之嫌，但还是：14，5，2！</p><blockquote><p><em>14,5,2</em> 指：<strong>北美奴隶主种族灭绝反人类匪帮，必须被毁灭，入关！</strong></p></blockquote><p></p><p></p><p></p><p>你的朋友 林辰<br>2021年1月26日</p>]]></content>
+    
+    
+    <summary type="html">转生成为带学生?! 贺:连载再开!!</summary>
+    
+    
+    
+    
+    <category term="学期末工作总结报告" scheme="https://mr-metasequoia.github.io/tags/%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学期末工作总结报告s5e2</title>
+    <link href="https://mr-metasequoia.github.io/posts/5e82/"/>
+    <id>https://mr-metasequoia.github.io/posts/5e82/</id>
+    <published>2020-08-05T06:25:56.000Z</published>
+    <updated>2021-12-29T11:38:33.170Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>我对2020年原来也有许多期盼。</strong>我想啊，天冷的时候可以经常跑步，然后多去湿地公园，感受四季的变化，回来写物候观察。去南京考试，和备考的同学一起开房，躺在床上和他俩大谈一番理想。秋天在不知道什么地方追番，看看巨人的结尾到底会有多神。最后再在这一年的最后一天，为中国实现了全面建成小康社会而狠狠地高兴一把。</p><p>在写上一篇总结报告的时候，其实火神雷神和各个方舱医院都已经加紧在建，苏州大市也有几十例确诊，但<strong>我仍预料不到新冠将对世界造成的深远的影响</strong>。要说疫情给我带来的最大不便，可能就要数网购东西不发货吧哈哈哈。这导致我有很长一段时间没得咖啡喝，搞到最后我实在受不了了只能自己炒生豆，味道不好也是可想而知的。我能在这里轻松地打字吐槽这个，医生、护士和大家都有一份功劳。对比隔壁漂亮国，我都不知道该说什么好了。</p><p>“不排除极少数人啊，”他们自言自语的说些什么“防杠专用”，然后就这样嚷：“带专我是了解的，认真学习的家伙都是异类，在那里会把人给毁掉。”通过考试进入本科之后，他们又要回过头来将自己的母校同学批判一番，以示不共戴天。<br>大概是实在和我的体验出入极大，所以我听闻这样的描述心里都会觉得很难过。<br>在这里确实常有人感到迷茫，那些对于未来的焦虑和眼前不痛不痒的每一节课，那种紧张和闲适之间的撕裂感和对当下的一切都没有意义的怀疑。<strong>但我们仍是学生，仍会为了取得高分而感到高兴，仍会为成功地运行了代码而兴奋地喊出芜湖。</strong>这半年我主要就是准备了专转本考试，其中有许多温馨的片段，得到了很多人的帮助和祝福。我们当中有些人最后遗憾没有考取，我不能忍受他们被那样的奚落。</p><p>最后说说我的近况吧，我最近在接受一个助盲陪跑项目的培训，内容是帮助视障人士（即广义上的“盲人”）练习跑步，最后陪他们参加马拉松。协会里有一项我觉得很先进的规定：凡是想要帮助视障的志愿者，都要先体验过黑暗。即戴上眼罩去做一系列日常的琐事，如避障行走、取物绘图等，感受他们生活的世界。要同理而不是同情，这样才能做好志愿服务。我还在那里见到一位浮肿、毁容、双眼只能勉强睁开一只，而且还是智障的女士。她之前几年受到协会的照顾，现在变得相对聪明了许多，在这里谋得了一个差事，可以自己养活自己了。我在培训时和她是搭档，现在我感到不管遇见什么样的人看起来需要我的帮助，我都可以克服陌生的恐惧上去和她搭话了（<em>狗头</em>）。不过最让我没想到的，是那些视障竟都跑的比我要好许多，阻碍我给人陪跑的倒成了我自己的跑步水平了哈哈哈可恶。</p><p>说明一下，视障人士跑步需要在手上抓一根约40厘米长的短绳，陪跑员抓着短绳另一端，与他的视障搭档正好跑成一个镜像，类似玩两人三足。轻拉短绳往左，大臂相碰往右，路面不平则出声告诉搭档减速迈过或加速跃过。还要有一人跑在队伍前端，告诉一般市民有视障通行，请理解一下、稍微往路的两边让让。</p><p>我跑的既不够匀速又容易累，与搭档的配合还很差，互相拉扯，实在是没有帮到什么忙。好在最近有超凡同学陪我跑步，委屈他模拟一下盲人我这还是可以练的好的嘛！</p><p>好，我现在要出门和他跑步去了。</p><p>这半年我过的也很开心。毕业后我们见面会少很多，但我是一个不怕尴尬的人，时隔很久我也会主动来找你，别嫌我烦啊。</p>]]></content>
+    
+    
+    <summary type="html">最后的2020，传说堂堂完结！</summary>
+    
+    
+    
+    
+    <category term="学期末工作总结报告" scheme="https://mr-metasequoia.github.io/tags/%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学期末工作总结报告s5e1</title>
+    <link href="https://mr-metasequoia.github.io/posts/5fc2/"/>
+    <id>https://mr-metasequoia.github.io/posts/5fc2/</id>
+    <published>2020-02-01T06:23:21.000Z</published>
+    <updated>2021-12-29T11:38:33.169Z</updated>
+    
+    <content type="html"><![CDATA[<p>为了搜集素材写每半年例行的“学期末工作总结报告”，我回顾了一下之前几个学期里我的学业情况，意外的发现原来我期末考试总分第一的次数仅有连续三次，而不是我一直以来以为的5次。<br>啊，虽然计较这个挺无聊的，但还是有点在意。就像是临近期末问同学复习情况，人人都说着“及格就好”，真要面对考试了，大家还是会全力以赴。</p><p>重要的考试前，我常会给自己画饼，许诺些好处。<br>就像是上个学期末，我的状态很差、专业课考的稀烂。为了鼓励我自己，振作起来好好复习语数英，我在日记里写道：“事情结束之后，去上海见船长吧”——之后我也确实有去上海看海贼王的画展，非常好看，不虚此行。<br>那么这个学期呢？虽然没有什么课了，但PETS考试和毕业设计、论文等也都很有挑战。<br>所以我向自己许诺，等到手上的事情忙完了，就去找喜欢的女士表白。</p><p>先说PETS考试，作为一个远近闻名的英文苦手，我本没有想过这次考<strong>3级</strong>可以通过的，我只是有在尽力地做准备而已。这次能够通过考试，不得不说是很幸运。（ <em>果然命运是站在我普奇神父这边哒！</em>）<br>口语考试的搭档正好是同专业的18级小学弟，我在考场门口的准备区看到他慌的不行，故作风轻云淡地和他聊了聊，使他产生我是大佬的幻觉，也就不至于那么慌了。<br>哇哦，这就是作为学长的感觉吗。</p><p>再说<strong>毕业设计</strong>，关于这个我发现我搞的还蛮扎实的：9月中旬开始找资料，10月做实例，10月底完成可行性分析，11月4日做出初版，到14日迭代十数次做出版本v1.3.3，15日答辩顺利通过。<br>其中的技术细节写出来就是废话了，总之这段时间我过得很愉快，我喜欢编程、喜欢解决问题。</p><p>因为从这个学期开始就已经没有课上了，偶尔去学校也只是为考个证书而做些练习罢了。所以学业的部分就先讲这么多，下面唠一点琐事。</p><hr><p>中秋节的时候给王慧发了祝节日快乐的邮件，信中有提到关于她拍的发在朋友圈的满月照片很漂亮之类的奉承话。<br>第二天早上收到她的回信，附件里有一张以满月照片为底，手写了祝福的话的电子贺卡，信中美其名曰“送我一轮明月”——真是会整新花样。<br>我没记错的话，王慧她是放射科的医生，这次新型冠状病毒肺炎事件，出于个人的一点私心，我希望她不会受到影响。</p><p>之前有段时间兽娘动物园热映，那个时候我还在住宿吧，顾鹏就有提到过要去加帕里公园找薮猫。<br>这个学期我们终于有机会去上海动物园，看看那些平时见不着的动物们了。除了细尾獴我没有见到略微遗憾外，长颈鹿和猞猁都给我留下了深刻印象，真是超帅的。<br>在园内参观的时候，偶尔会碰见一个东欧阿婆和她的孙女。在大象馆门口的户外展示区，我和同学又看到了她们两个，估计正在因为看不懂中文、不知道大象已经入馆取暖了而困惑着吧。<br>一番犹豫和讨论之后，我硬着头皮去给她俩指路，总之带到了入口就是。<br>虽然因为菜和紧张，我没有展现出一个中国学生应有的口语水平，但我确实有帮到忙了，这就还行。</p><p>还有两个月就要面临重要的转本考试，而我对于两门专业课和英语的学习还很不够，完全可以再努力一点。<br><em>我不是不在意结果，我只是一直都很顺利。可想要是真的落榜了，我肯定难受的要死，所以请别让它发生。</em></p><p><strong>无论如何，半年之后都是新的生活了。</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;为了搜集素材写每半年例行的“学期末工作总结报告”，我回顾了一下之前几个学期里我的学业情况，意外的发现原来我期末考试总分第一的次数仅有连续三次，而不是我一直以来以为的5次。&lt;br&gt;啊，虽然计较这个挺无聊的，但还是有点在意。就像是临近期末问同学复习情况，人人都说着“及格就好”，</summary>
+      
+    
+    
+    
+    
+    <category term="学期末工作总结报告" scheme="https://mr-metasequoia.github.io/tags/%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学期末工作总结报告s4e2</title>
+    <link href="https://mr-metasequoia.github.io/posts/9ed3/"/>
+    <id>https://mr-metasequoia.github.io/posts/9ed3/</id>
+    <published>2019-06-23T06:15:25.000Z</published>
+    <updated>2021-12-29T11:38:33.167Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>写了学期末工作总结报告，因为是第一个在大号发布的文章，所以使用了新的命名规则，命名为《学期末工作总结报告之其⑥》。<br>虽说我一直将真诚作为写文章的第一前提，但是如果我写的文章会被平凡的人看到的话，还是有些束手束脚的。<br>毕竟他们都是尚没有被我所承认的人呢。<br>不过因为这样的话，我被迫写出更有受众的文章来，也算是进步了。花了我不少时间。<br>而且是先用钢笔在纸上写的，再在敲进电脑里的时候改的更加通顺、符合口语一点。<br>用钢笔写文章意外的没有我想象中的那么难嘛。</p></blockquote><p>虽然现在好像已经不流行表露自己的内心想法了，但是要说的话，其实大家还是比较喜欢深情一点的人吧。<br>就像是自己的某种东西已经丢掉了，但是看见别人还保持着初心，那就会很感动呵。</p><p>人会有所成长，而在这成长的过程中保持初心是一件非常可贵的事情。<br>我呀，已经算得上是不讨好人的了，可还是会被某种东西、身份所束缚，一点也不自由。<br>要想最终成为像老师那样的已经“完成”了的人，我的路还长着呢。<br>在我变得像现在这么傲慢之前，得以遇见老师真是太好了。如果不是因为这样，我会变成怎样的大人呢？<br>虽说突然醒悟是在离开你之后，但是究其原因，我想还是源于你所说的，我比存霆不如就在于不够自律吧。<br>现在虽称不上有多么自律，倒是也有些为人所知的做事风格。</p><p>这个学期作为一个阶段的结束，我已经非常满意了。<br>开始的时候没有自觉，只是当作一个普通的学期：又是一些新的课程被开出来，有的看起来挺难的，有的则一看就知道是所谓“水课”。<br>同学们也都是那些熟悉的面孔，分别了一个寒假，见面却也没什么话好说的。<br>坐在课桌上玩了一会儿手机，好像这开学的第一天，与这学期、在这里之前的每一天，倒也没什么不同。<br>只是在快要结束的时候，傅强在班会课上反复强调：你们就要解脱了嗷，就要解脱了嗷。<br>我这才有切身的体会：好像就要到此为止了呢。</p><p>那么我在这里的这几年，有什么遗憾吗？嗯……我还没有向喜欢的姑娘告白，也还没有一门称得上“懂”的技术。<br>我的成绩倒是还可以啦，受大家照顾，常常能得第一。只是就这样浑水摸鱼的，被人一问，究竟什么也拿不出手。<br>虽说是学计算机软件的，但是对于上网寻找解决问题的方法，在这方面的能力，我可能还不如许多喜欢琢磨的普通人。<br>——我得尽快跟上大家才行。</p><p>要说这个学期还有什么特别的，那就是我和一位女士的关系处得特别好啦！</p><blockquote><p>是姜熹薇，对我而言特殊的、想来总会感到温馨的家伙。</p></blockquote><p>虽然我现在已经放弃了同她的友情，但是我会一直记得那段时间里我每一天的喜悦。<br>发生过的事情是确实的，这些不变的回忆是我珍贵的宝藏。<br>以后作为大人的我，要是再说起出现在我生命中十八九岁的少女，那个人应该会是你的模样。</p><p>接下来要做什么呢？既然这么讨厌慷慨赴死，那么在九月份的英语考试之前就得再加把劲了。<br>一直有在做锻炼，但是直到去年冬天开始认真为止，好像都没有什么效果。<br>学习英语也应该是同理，要稍微认真一点才会有所改变。<br>自学考试一直都是顺风顺水，这学期五月份的时候去南京答辩，如此一来这件事情就算是彻底结束了。<br>然后是毕业设计的指导老师，看起来也是个可以愉快相处的人，得益于机房同学的关系，在技术上也许可以赖着脸皮请教。</p><hr><p>不知道下个学期我还有没有机会再和欧阳、宝玉一起喷顾鹏呢，真是舍不得在机房里一边嘴碎一边打代码的愉快生活。<br>以后希望能够成为一个话痨程序员，表面上是普通上班族，背地里却是一个圈内小有名气的越野跑爱好者。</p><p><strong>那也不过是一夜的梦境，无数可能性中的一种。</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;写了学期末工作总结报告，因为是第一个在大号发布的文章，所以使用了新的命名规则，命名为《学期末工作总结报告之其⑥》。&lt;br&gt;虽说我一直将真诚作为写文章的第一前提，但是如果我写的文章会被平凡的人看到的话，还是有些束手束脚的。&lt;br&gt;毕竟他们都是尚没有被</summary>
+      
+    
+    
+    
+    
+    <category term="学期末工作总结报告" scheme="https://mr-metasequoia.github.io/tags/%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A/"/>
+    
+  </entry>
+  
+</feed>
