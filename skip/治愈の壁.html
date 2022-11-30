@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="zh_Hans_CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>治愈の壁</title>
+    <style>
+        html {
+            overflow: hidden;
+            height: 100vh;
+            max-height: -webkit-fill-available;
+        }
+        
+        body {
+            background-color: #d8ebc6;
+            height: 100%;
+            margin: 0;
+            overflow: hidden;
+        }
+        
+        .moe-box {
+            height: 100%;
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            margin: auto;
+        }
+        
+        .moe {
+            float: left;
+            margin: 2px;
+            width: 120px;
+            height: 120px;
+            background: 50% 50% no-repeat;
+            background-size: 120px;
+            border-radius: 3px;
+            transition: background-image 2s ease, background-size 2s ease;
+        }
+        
+        .moe:hover {
+            background-size: 150px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="moe-box">
+
+    </div>
+    <script>
+        const baseURL = `../images/girls/`;
+        const imageURLs = [
+            "mio酱",
+            "阿尼亚",
+            "欸酱",
+            "风香",
+            "甘露寺",
+            "古见同学",
+            "姬野",
+            "利贺田",
+            "凉宫春日",
+            "妮诺",
+            "平泽唯",
+            "千户",
+            "神乐",
+            "四叶",
+            "唐可可",
+            "藤原千花",
+            "夏海",
+            "小舟澪",
+            "心",
+            "徐伦",
+            "尤莉",
+            "柚子"
+        ].map(k => baseURL + k + '.jpg');
+
+        let moeImages = [];
+        const getOnemoeImage = _ => {
+            if (!moeImages.length) {
+                moeImages = imageURLs.slice().sort(_ => Math.random() - 0.5)
+            }
+
+            return moeImages.pop();
+        }
+
+        const el = document.querySelector('.moe-box');
+
+        const init = _ => {
+
+            const {
+                offsetWidth,
+                offsetHeight
+            } = document.documentElement;
+
+            const width = 120;
+
+            const row = Math.floor(offsetWidth / (width + 4));
+            const col = Math.floor(offsetHeight / (width + 4));
+
+            const images = new Array(row * col).fill('').map((v, i) => `<div class="moe" style="background-image:url(${getOnemoeImage()})"></div>`);
+
+            el.innerHTML = images.join('');
+            const allWidth = row * (width + 4);
+            const allHeight = col * (width + 4);
+            el.style.width = `${allWidth}px`;
+            el.style.height = `${allHeight}px`;
+            // el.style.margin = `0 ${(offsetWidth - allWidth)/2}px`;
+            moes = [];
+        }
+
+        let moes = [];
+        const step = _ => {
+            if (!moes.length) {
+                moes = [...el.children].slice().sort(_ => Math.random() - 0.5);
+            }
+            const moe = moes.pop();
+            const src = getOnemoeImage();
+            const image = new Image();
+            image.onload = _ => {
+                setTimeout(_ => {
+                    moe.style.backgroundImage = `url(${src})`;
+                    setTimeout(step, 8000 / el.children.length);
+                }, 16);
+            };
+            image.src = src;
+        }
+
+        let timer;
+        init();
+
+        window.onresize = _ => {
+            clearTimeout(timer);
+            timer = setTimeout(init, 300);
+        }
+        step();
+    </script>
+</body>
+
+</html>
